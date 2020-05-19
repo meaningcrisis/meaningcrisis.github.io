@@ -6,7 +6,7 @@ description: "Just the Docs is a responsive Jekyll theme with built-in search th
 permalink: /
 ---
 
-# It's time for evidence informed teaching
+# It's time for evidence-informed teaching and learning
 
 Although we live in the 21. century, reading a textbook is still the best strategy to understand a challenging subject deeply. But what are the odds that a century-old medium is the best we can come up with?
 

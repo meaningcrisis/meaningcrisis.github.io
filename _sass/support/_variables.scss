@@ -2,10 +2,9 @@
 // Typography
 //
 
-$body-font-family: -apple-system, BlinkMacSystemFont, "helvetica neue",
-  helvetica, roboto, noto, "segoe ui", arial, sans-serif !default;
+$body-font-family: "Alegreya Sans", "Trebuchet MS", "Helvetica Neue", sans-serif;
 $mono-font-family: "SFMono-Regular", Menlo, Consolas, Monospace !default;
-$root-font-size: 16px !default; // Base font-size for rems
+$root-font-size: 22px !default; // Base font-size for rems
 $body-line-height: 1.4 !default;
 $content-line-height: 1.5 !default;
 $body-heading-line-height: 1.15 !default !default;
@@ -113,7 +112,7 @@ $gutter-spacing: $sp-6 !default;
 $gutter-spacing-sm: $sp-4 !default;
 $nav-width: 264px !default;
 $nav-width-md: 248px !default;
-$content-width: 800px !default;
+$content-width: 600px !default;
 $header-height: 60px !default;
 $search-results-width: 500px !default;
 

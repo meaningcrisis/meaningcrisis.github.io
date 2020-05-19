@@ -91,7 +91,6 @@
     justify-content: flex-end;
     height: $header-height;
     background-color: $body-background-color;
-    border-bottom: $border $border-color;
   }
 
   &.nav-open {
@@ -133,7 +132,6 @@
     z-index: 101;
     height: $header-height;
     max-height: $header-height;
-    border-bottom: $border $border-color;
   }
 }
 

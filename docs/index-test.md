@@ -89,6 +89,13 @@ A proper hypertext book is not merely a variant of an analog book. Hypertext boo
 - **noteworthy features**: interactive illustrations
 - **created by**: Jack Schaedler
 
+#  Learning Synths
+
+- **available at**: <https://learningsynths.ableton.com/>
+<img align="right" width="200"  src="/assets/images/synths.png">
+- **noteworthy features**: interactive sound effects
+- **created by**: Ableton
+
 
 
 # Web Books
@@ -98,4 +105,15 @@ A web book is not a hypertext book. By definition, a web book would work equally
 A few particularly beautiful examples:
 
 * <http://neuralnetworksanddeeplearning.com>
-* 
+* <https://shapeofdesignbook.com>
+* <https://poignant.guide>
+* <https://craftinginterpreters.com>
+* <https://resilientwebdesign.com>
+* <https://basecamp.com/shapeup>
+* <https://htdp.org>
+* <https://amplitude.com/north-star>
+* <https://startingandsustaining.com>
+* <https://atomicdesign.bradfrost.com>
+* <https://breakingsmart.com/en/season-1>
+* <http://worrydream.com/MagicInk>
+

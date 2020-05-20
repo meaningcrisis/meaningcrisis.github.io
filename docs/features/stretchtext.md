@@ -13,7 +13,7 @@ Stretchtext gives readers control in determining what level of detail they want 
 <p  style="font-size:12px;text-align:center;">
   <img alt="img-name" src="/assets/images/stretchtext.gif" width="450">
   <br>
-  <em><a href="http://stretchtext.tiddlyspot.com/>Source</a></em> 
+  <em><a href="http://stretchtext.tiddlyspot.com/">Source</a></em> 
 </p>
 
 ## Implementations

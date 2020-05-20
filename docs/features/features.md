@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Feature Ideas
+title: Features
 nav_order: 2
 has_children: true
 permalink: /docs/features

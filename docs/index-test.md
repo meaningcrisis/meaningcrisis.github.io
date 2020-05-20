@@ -59,7 +59,7 @@ A proper hypertext book is not merely a variant of an analog book. Hypertext boo
 
 #  The Elements of Euclid
 
-<img align="right" width="250"  src="/assets/images/euclid.png">
+<img align="right" width="200" style="margin-left:20px;" src="/assets/images/euclid.png">
 
 - **available at**: <https://www.c82.net/euclid>
 - **noteworthy features**: interactive diagrams that are directly linked to words in the text

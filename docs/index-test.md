@@ -41,7 +41,7 @@ A proper hypertext book is not merely a variant of an analog book. Hypertext boo
 
 #  Practical Typography
 
-<img align="right" width="250"  src="/assets/images/typo.png">
+<img align="right" width="200"  src="/assets/images/typo.png">
 
 - **available at**: <https://practicaltypography.com>
 - **noteworthy features**: adjustable typography
@@ -73,17 +73,9 @@ A proper hypertext book is not merely a variant of an analog book. Hypertext boo
 - **noteworthy features**: interactive illustrations, comments
 - **created by**: Pomax
 
-#  A Primer on Bézier Curves
-
-<img align="right" width="250"  src="/assets/images/bezier.png">
-
-- **available at**: <https://pomax.github.io/bezierinfo>
-- **noteworthy features**: interactive illustrations, comments
-- **created by**: Pomax
-
 #  The Book of Shaders
 
-<img align="right" width="250"  src="/assets/images/shaders.png">
+<img align="right" width="200"  src="/assets/images/shaders.png">
 
 - **available at**: <https://thebookofshaders.com>
 - **noteworthy features**: interactive illustrations and code

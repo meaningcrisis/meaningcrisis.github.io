@@ -6,7 +6,10 @@ nav_order: 99
 
 *** Quantum Country ***
 
-![](/assets/images/quantumcountry.png)
+<img align="right" width="350"  src="/assets/images/quantumcountry.png">
+
+
+
 
 - available at: https://quantum.country/
 - noteworthy features: spaced repetition prompts

@@ -19,3 +19,6 @@ A proper hypertext book is not merely a variant of an analog book. Hypertext boo
 - **whitepaper**: <https://numinous.productions/ttft/>, <https://andymatuschak.org/books/>
 
 
+# Web Books
+
+A web book is not a hypertext book. By definition, a web book would work equally good (if not better) if it were delivered as a single PDF file.

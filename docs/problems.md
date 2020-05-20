@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Examples
-nav_order: 99
+nav_order: 3
 ---
 
 #  Problems 

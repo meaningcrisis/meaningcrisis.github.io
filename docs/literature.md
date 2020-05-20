@@ -18,7 +18,7 @@ nav_order: 5
 * [Computer Lib / Dream Machines](http://scripting.com/images/2017/12/16/ComputerLibDreamMachines1stEdition.pdf) by Ted Nelson [1974]
 * Making Learning Whole by David N. Perkins [2009]
 
-## Paper
+## Research Paper
 
 * [Improving Students' Learning With Effective Learning Techniques](https://pcl.sitehost.iu.edu/rgoldsto/courses/dunloskyimprovinglearning.pdf) by Dunlosky, Rawson, Marsh, Nathan, & Willingham [2013]
 * [Teaching the science of learning](https://www.researchgate.net/publication/321667981_Teaching_the_science_of_learning) by Weinstein, Madan, & Sumeracki [2018]

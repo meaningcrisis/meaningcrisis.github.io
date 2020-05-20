@@ -9,7 +9,7 @@ permalink: /docs/features
 # Feature Ideas
 
 <figure>
-  <img align="right" width="250"  src="/assets/images/hyperlearning2.svg">
+  <img align="right" width="250"  src="/assets/images/hyperlearning3.svg">
   <figcaption>Adapted from *Dream Machines* by Ted Nelson</figcaption>
 </figure>
 

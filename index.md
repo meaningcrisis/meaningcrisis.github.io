@@ -12,7 +12,7 @@ Although we live in the 21. century, reading a textbook [is still the best strat
 
 Is a linear series of pages, separated into pre-defined chapter, with a few exercises sprinkled in-between really the optimum?
 
-While in past there were admittely limited possibilities to invent a new medium, nowadays it's only a lack of imagination that is stopping us. We need coders, designers, teachers, and researchers to reimagine the future of learning.
+While in past there were admittely limited possibilities to invent new media, nowadays it's only a lack of imagination that is stopping us. We need coders, designers, teachers, and researchers to reimagine the future of learning.
 
 
 [Read the Whitepaper](#getting-started){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } [Browse Ideas](https://github.com/pmarsceill/just-the-docs){: .btn .fs-5 .mb-4 .mb-md-0 }

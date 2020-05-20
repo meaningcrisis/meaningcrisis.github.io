@@ -11,9 +11,9 @@ Why aren't hypertext books more common?
 <details>
 <summary>Monetization problem. </summary>
 <div class="detailstext">
-How can hypertext books be monetized? <br><br>
+Currently there is no good model to monetize hypertext books. <br><br>
 
-<a href="https://practicaltypography.com/economics-year-one.html">The economics of a web-based book</a>
+A noteworthy summary of this problem and possible solutions is: <a href="https://practicaltypography.com/economics-year-one.html">The economics of a web-based book</a> by Matthew Butterick
 </div>
 </details>
 

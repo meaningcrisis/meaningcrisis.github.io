@@ -84,15 +84,17 @@ A proper hypertext book is not merely a variant of an analog book. Hypertext boo
 
 #  Seeing Circles, Sines, and Signals
 
-- **available at**: <https://jackschaedler.github.io/circles-sines-signals/>
 <img align="right" width="200"  src="/assets/images/circles.png">
+
+- **available at**: <https://jackschaedler.github.io/circles-sines-signals/>
 - **noteworthy features**: interactive illustrations
 - **created by**: Jack Schaedler
 
 #  Learning Synths
 
-- **available at**: <https://learningsynths.ableton.com/>
 <img align="right" width="200"  src="/assets/images/synths.png">
+
+- **available at**: <https://learningsynths.ableton.com/>
 - **noteworthy features**: interactive sound effects
 - **created by**: Ableton
 

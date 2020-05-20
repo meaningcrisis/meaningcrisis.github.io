@@ -15,7 +15,7 @@ Is a linear series of pages, separated into pre-defined chapter, with a few exer
 While in past there were admittely limited possibilities to invent new media, nowadays it's only a lack of imagination that is stopping us. We need coders, designers, teachers, and researchers to reimagine the future of learning.
 
 
-[Read the Whitepaper](#getting-started){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } [Browse Ideas](https://github.com/pmarsceill/just-the-docs){: .btn .fs-5 .mb-4 .mb-md-0 }
+[Read the linear Whitepaper](#getting-started){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } [Read the non-linear Whitepaper](https://github.com/pmarsceill/just-the-docs){: .btn .fs-5 .mb-4 .mb-md-0 }
 
 
 

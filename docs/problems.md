@@ -10,6 +10,7 @@ Why are hypertext books not more common?
 
 
 - Monetization problem. How can hypertext books be monetized?
+ - [The economics of a web-based book](https://practicaltypography.com/economics-year-one.html)
 - Chicken-Egg problem. 
 >"No one understands what a hypertext book is, because there are so few of them; there are few because the tools are inadequate; there’s no demand for better tools because no one wants to write hypertext books, because no one can read them…." [David Chapman](https://twitter.com/Meaningness/status/1154827701754007552)
 - Lack of imagination problem. 

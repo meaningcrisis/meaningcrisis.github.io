@@ -12,7 +12,7 @@ Interactive prompts can help to encourage learners to use effective learning str
 <p  style="font-size:12px;text-align:center;">
   <img alt="img-name" src="/assets/images/qc_icons.gif" width="450">
   <br>
-    <em>Source: How can we develop transformative tools for thought? by Andy Matuschak and Michael Nielsen</em> 
+    <em>Source: <a href="https://numinous.productions/ttft/">How can we develop transformative tools for thought?</a> by Andy Matuschak and Michael Nielsen</em> 
 </p>
 
 

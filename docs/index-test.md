@@ -4,6 +4,8 @@ title: Examples
 nav_order: 99
 ---
 
+A proper hypertext books is not merely a variant of an analog book. They are something essentially new and different and belong to their own category.
+
 #  Quantum Country 
 
 <img align="right" width="250"  src="/assets/images/quantumcountry.png">

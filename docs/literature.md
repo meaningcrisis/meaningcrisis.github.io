@@ -15,8 +15,8 @@ nav_order: 5
 
 ## Books
 
-* [Computer Lib / Dream Machines](http://scripting.com/images/2017/12/16/ComputerLibDreamMachines1stEdition.pdf) by Ted Nelson 
-* Making Learning Whole by David N. Perkins.
+* [Computer Lib / Dream Machines](http://scripting.com/images/2017/12/16/ComputerLibDreamMachines1stEdition.pdf) by Ted Nelson [1974]
+* Making Learning Whole by David N. Perkins [2009]
 
 ## Paper
 

@@ -46,7 +46,7 @@ A proper hypertext book is not merely a variant of an analog book. Hypertext boo
 - **available at**: <https://practicaltypography.com>
 - **noteworthy features**: adjustable typography
 - **created by**:  Matthew Butterick
-- **project description**: [Chapter 0](https://practicaltypography.com/why-theres-no-e-book-or-pdf.html)
+- **project description**: [here](https://practicaltypography.com/why-theres-no-e-book-or-pdf.html)
 
 
 #  Dive into Deep Learning

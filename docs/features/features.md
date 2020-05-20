@@ -10,7 +10,7 @@ permalink: /docs/features
 
 <figure>
   <img align="right" width="250"  src="/assets/images/hyperlearning3.svg">
-  <figcaption>Adapted from *Dream Machines* by Ted Nelson</figcaption>
+  <figcaption>Adapted from Dream Machines by Ted Nelson</figcaption>
 </figure>
 
 

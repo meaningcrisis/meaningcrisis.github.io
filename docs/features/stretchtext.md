@@ -18,6 +18,7 @@ Stretchtext gives readers control in determining what level of detail they want 
 
 ## Implementations
 
+* No textbook so far uses stretchtext.
 
 
 ## Software

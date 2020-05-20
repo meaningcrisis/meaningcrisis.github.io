@@ -92,9 +92,9 @@ A proper hypertext book is not merely a variant of an analog book. Hypertext boo
 
 #  Learning Synths
 
-<img align="right" width="200"  src="/assets/images/synths.png">
+<img align="right" width="180"  src="/assets/images/synths.png">
 
-- **available at**: <https://learningsynths.ableton.com/>
+- **available at**: <https://learningsynths.ableton.com>
 - **noteworthy features**: interactive sound effects
 - **created by**: Ableton
 

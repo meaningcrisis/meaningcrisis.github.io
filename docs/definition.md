@@ -10,5 +10,5 @@ A hypertext book is a "multi-dimensional" book, following the mathematical use o
 
 
 <p  style="font-size:12px;text-align:center;">
-  <img alt="img-name" src="/assets/images/hyperbook.svg" width="550">
+  <img alt="img-name" src="/assets/images/hyperbook.svg" width="350">
 </p>

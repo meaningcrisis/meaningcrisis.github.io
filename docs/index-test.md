@@ -88,7 +88,7 @@ A proper hypertext book is not merely a variant of an analog book. Hypertext boo
 - **available at**: <https://thebookofshaders.com>
 - **noteworthy features**: interactive illustrations and code
 - **created by**: Patricio Gonzalez Vivo and Jen Lowe
-
+- **project description**: <https://thebookofshaders.com/00>
 
 
 # Web Books

@@ -10,7 +10,7 @@ Why aren't hypertext books more common?
 
 <details>
 <summary>Monetization problem. </summary>
-  
+<br>
 How can hypertext books be monetized? <br><br>
 
 <a href="https://practicaltypography.com/economics-year-one.html">The economics of a web-based book</a>

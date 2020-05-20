@@ -10,10 +10,10 @@ permalink: /docs/features
 
 
 
-<p float="right">
+<p float="right" style="font-size:12px;">
   <img alt="img-name" src="/assets/images/hyperlearning3.svg" width="250">
   <br>
-    <em>Adapted from Dream Machines by Ted Nelson</em> {: .fs-3 .fw-300 }
+    <em>Adapted from Dream Machines by Ted Nelson</em> 
 </p>
 
 

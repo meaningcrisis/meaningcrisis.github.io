@@ -4,6 +4,12 @@ title: About
 nav_order: 99
 ---
 
+<p  style="font-size:12px;float:right;margin-left:20px;">
+  <img alt="img-name" src="/assets/images/hyperlearning3.svg" width="250">
+  <br>
+    <em>Adapted from Dream Machines by Ted Nelson</em> 
+</p>
+
 The creation of this site is motiated by two observations: 
 
 1. Computer Lib / Dream Machines by Ted Nelson is half a century old but almost no one writes hypertext books. 

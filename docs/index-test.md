@@ -11,9 +11,9 @@ nav_order: 99
 
 
 
-- available at: https://quantum.country/
-- noteworthy features: spaced repetition prompts
-- created by: Andy Matushak and Michael Nielsen
-- whitepaper: https://numinous.productions/ttft/, https://andymatuschak.org/books/
+- **available at**: https://quantum.country/
+- **noteworthy features**: spaced repetition prompts
+- **created by**: Andy Matushak and Michael Nielsen
+- **whitepaper**: https://numinous.productions/ttft/, https://andymatuschak.org/books/
 
 

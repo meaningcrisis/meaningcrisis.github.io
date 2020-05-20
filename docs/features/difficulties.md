@@ -19,6 +19,7 @@ nav_order: 3
 <img alt="img-name" src="/assets/images/cloze.png" width="350">
 </p>
 
+In a hypertext book, these kind of desirable difficulties could be turned on and off on-demand.
 
 ## References
 

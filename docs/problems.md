@@ -8,6 +8,17 @@ nav_order: 3
 
 Why are hypertext books not more common?
 
+<details>
+  <summary>Spoiler warning</summary>
+  
+  Spoiler text. Note that it's important to have a space after the summary tag. You should be able to write any markdown you want inside the `<details>` tag... just make sure you close `<details>` afterward.
+  
+  ```javascript
+  console.log("I'm a code block!");
+  ```
+  
+</details>
+
 
 * Monetization problem. How can hypertext books be monetized?
   * [The economics of a web-based book](https://practicaltypography.com/economics-year-one.html)

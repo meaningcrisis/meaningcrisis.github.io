@@ -13,7 +13,7 @@ permalink: /docs/features
 <p align="right">
   <img alt="img-name" src="/assets/images/hyperlearning3.svg" width="250">
   <br>
-    <em>Adapted from Dream Machines by Ted Nelson</em>
+    <em>Adapted from Dream Machines by Ted Nelson</em> {: .fs-3 .fw-300 }
 </p>
 
 

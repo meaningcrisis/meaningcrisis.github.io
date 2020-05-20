@@ -7,20 +7,25 @@ nav_order: 2
 
 # Prompts
 
-Stretchtext gives readers control in determining what level of detail they want to read a given text. Initially, only short summary-like text is shown. By clicking on certain parts of the text further details can be revealed. An interesting possibility is to hide details most steps in calculations and show them only on-demand. This way the text remains concise but still all details can be retrieved if necessary.
+Stretchtext gives readers control in determining what level of detail they want to read a given text. Initially, only a short summary-like text is shown. By clicking on certain parts of the text further details can be revealed. An interesting possibility is to hide most steps in calculations by default and show them only on-demand. This way the text remains concise but still all details can be retrieved if necessary.
 
 
 <p  style="font-size:12px;text-align:center;">
-  <img alt="img-name" src="/assets/images/qc_icons.gif" width="450">
+  <img alt="img-name" src="/assets/images/stretchtext.gif" width="450">
   <br>
-    <em>Source: <a href="https://numinous.productions/ttft/">How can we develop transformative tools for thought?</a> by Andy Matuschak and Michael Nielsen</em> 
+    <em>Source: <http://stretchtext.tiddlyspot.com/>/em> 
 </p>
 
 ## Implementations
 
-* 
+
 
 ## Software
 
+* [Stretchtext.js](http://codinginparadise.org/ebooks/html/blog/stretchtext.html) 
+* <https://natematias.com/stretchtext/>
+* <http://stretchtext.tiddlyspot.com/>
 
+## References
 
+* "Stretchtext is an extremely simple but powerful form of hypertext. It is probably the easiest possible hypertext to understand. It would be hard for a reader of stretchtext to become confused. Stretchtext consists of ordinary continuous text which can be "stretched", or made longer and more detailed. By pointing at specific areas and pulling the throttle in the "magnify" direction, the reader may obtain a greater detail on a specific subject, or area of the text. The text stretches, becoming longer, with replacement phrases, new details and additional clauses popping into place. The good of this structure should be evident. The reader remains oriented. If he loses track of where he is, he "shrinks" the text to a higher, shorter level; if he wants to study a topic in more detail, he magnifies it." - Ted Nelson, [Hypertext Note 8](http://xanadu.com/XUarchive/htn8.tif), 1967

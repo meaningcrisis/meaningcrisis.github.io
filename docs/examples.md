@@ -3,10 +3,11 @@ layout: default
 title: Examples
 nav_order: 8
 ---
+# Examples
 
 A proper hypertext book is not merely a variant of an analog book. Hypertext books are something essentially new and different and belong to their own category.
 
-#  Quantum Country 
+##  Quantum Country 
 
 <img align="right" width="250"  src="/assets/images/quantumcountry.png">
 
@@ -15,7 +16,7 @@ A proper hypertext book is not merely a variant of an analog book. Hypertext boo
 - **created by**: Andy Matuschak and Michael Nielsen
 - **project description**: <https://numinous.productions/ttft/>, <https://andymatuschak.org/books/>
 
-#  Meaningness
+##  Meaningness
 
 <img align="right" width="250"  src="/assets/images/meaningness.png">
 
@@ -23,7 +24,7 @@ A proper hypertext book is not merely a variant of an analog book. Hypertext boo
 - **noteworthy features**: integrated on-demand glossary, comments, non-linearity
 - **created by**:  David Chapman
 
-#  How to make sense of any mess
+##  How to make sense of any mess
 
 <img align="right" width="250"  src="/assets/images/mess.png">
 

@@ -23,10 +23,7 @@ Interactive prompts can help to encourage learners to use effective learning str
 
 ## Software
 
-* [Anki](https://apps.ankiweb.net)
-** free
-* [Super Memo](https://www.supermemo.com/)
-** commercial
+Currently no good software exists that allows authors to integrate, for example, interactive spaced retrieval practice prompts. 
 
 ## References
 

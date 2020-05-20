@@ -5,7 +5,7 @@ parent: Features
 nav_order: 2
 ---
 
-# Prompts
+# Stretchtext
 
 Stretchtext gives readers control in determining what level of detail they want to read a given text. Initially, only a short summary-like text is shown. By clicking on certain parts of the text further details can be revealed. An interesting possibility is to hide most steps in calculations by default and show them only on-demand. This way the text remains concise but still all details can be retrieved if necessary.
 
@@ -23,7 +23,7 @@ Stretchtext gives readers control in determining what level of detail they want 
 
 ## Software
 
-* [Stretchtext.js](http://codinginparadise.org/ebooks/html/blog/stretchtext.html) 
+* [Stretchtext.js](http://codinginparadise.org/ebooks/html/blog/stretchtext.html), [Codepon Demo](https://codepen.io/caraya/pen/RwbVMzX)
 * <https://natematias.com/stretchtext/>
 * <http://stretchtext.tiddlyspot.com/>
 

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Prompts
-parent: UI Components
+parent: Feature Ideas
 nav_order: 2
 ---
 

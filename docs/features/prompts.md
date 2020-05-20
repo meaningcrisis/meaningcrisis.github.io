@@ -18,7 +18,7 @@ Interactive prompts can help to encourage learners to use effective learning str
 
 ## Research
 
-* [An effective metacognitive strategy: learning by doing and explaining with a computer-based cognitive tutor](https://www.sciencedirect.com/science/article/abs/pii/S0364021302000617) by Aleven and Koedinger
+* [An effective metacognitive strategy](https://www.sciencedirect.com/science/article/abs/pii/S0364021302000617) by Aleven and Koedinger
 * [Does providing prompts during retrieval practice improve learning?](https://psycnet.apa.org/record/2016-33655-006) by Smith et. al.
 
 ## Software

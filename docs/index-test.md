@@ -4,7 +4,7 @@ title: Examples
 nav_order: 99
 ---
 
-*** Quantum Country ***
+##  Quantum Country 
 
 <img align="right" width="350"  src="/assets/images/quantumcountry.png">
 

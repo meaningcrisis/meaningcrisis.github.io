@@ -9,6 +9,13 @@ nav_order: 2
 
 By providing multiple versions of each page, it can be avoided that readers get stuck if they don't understand something. 
 
+
+<p  style="font-size:12px;text-align:center;">
+  <img alt="img-name" src="/assets/images/perspectives.gif" width="550">
+  <br>
+    <em>Source: <a href="https://physicstravelguide.com/formalisms/lagrangian_formalism">Physics Travel Guide</a></em> 
+</p>
+
 ## Examples
 
 * <https://physicstravelguide.com/>

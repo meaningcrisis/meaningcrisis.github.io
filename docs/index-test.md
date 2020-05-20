@@ -13,7 +13,7 @@ A proper hypertext book is not merely a variant of an analog book. Hypertext boo
 - **available at**: <https://quantum.country>
 - **noteworthy features**: spaced repetition prompts
 - **created by**: Andy Matuschak and Michael Nielsen
-- **whitepaper**: <https://numinous.productions/ttft/>, <https://andymatuschak.org/books/>
+- **project description**: <https://numinous.productions/ttft/>, <https://andymatuschak.org/books/>
 
 #  Meaningness
 
@@ -39,8 +39,62 @@ A proper hypertext book is not merely a variant of an analog book. Hypertext boo
 - **noteworthy features**: interactive animations
 - **created by**:  J. Ström, K. Åström, and T. Akenine-Möller
 
+#  Practical Typography
+
+<img align="right" width="250"  src="/assets/images/typo.png">
+
+- **available at**: <https://practicaltypography.com>
+- **noteworthy features**: adjustable typography
+- **created by**:  Matthew Butterick
+- **project description**: <https://practicaltypography.com/why-theres-no-e-book-or-pdf.html>
+
+
+#  Dive into Deep Learning
+
+<img align="right" width="250"  src="/assets/images/dive.png">
+
+- **available at**: <https://d2l.ai>
+- **noteworthy features**: each section is an excecutable jupyter notebook, comments
+- **created by**: Aston Zhang, Zachary C. Lipton, Mu Li, and Alexander J. Smola
+
+#  The Elements of Euclid
+
+<img align="right" width="250"  src="/assets/images/euclid.png">
+
+- **available at**: <https://www.c82.net/euclid>
+- **noteworthy features**: interactive diagrams that are directly linked to words in the text
+- **created by**: Nicholas Rougeux
+
+#  A Primer on Bézier Curves
+
+<img align="right" width="250"  src="/assets/images/bezier.png">
+
+- **available at**: <https://pomax.github.io/bezierinfo>
+- **noteworthy features**: interactive illustrations, comments
+- **created by**: Pomax
+
+#  A Primer on Bézier Curves
+
+<img align="right" width="250"  src="/assets/images/bezier.png">
+
+- **available at**: <https://pomax.github.io/bezierinfo>
+- **noteworthy features**: interactive illustrations, comments
+- **created by**: Pomax
+
+#  The Book of Shaders
+
+<img align="right" width="250"  src="/assets/images/shaders.png">
+
+- **available at**: <https://thebookofshaders.com>
+- **noteworthy features**: interactive illustrations and code
+- **created by**: Patricio Gonzalez Vivo and Jen Lowe
+
 
 
 # Web Books
 
 A web book is not a hypertext book. By definition, a web book would work equally good (if not better) if it were delivered as a single PDF file.
+
+A few particularly beautiful examples:
+
+* 

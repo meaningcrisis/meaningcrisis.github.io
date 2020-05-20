@@ -10,8 +10,8 @@ nav_order: 5
 
 ## Essays
 
-* [Why books don't work](https://andymatuschak.org/books/) by Andy Matuschak
-* [How can we develop transformative tools for thought?](https://numinous.productions/ttft/) by Andy Matuschak and Michael Nielsen
+* [Why books don't work](https://andymatuschak.org/books/) by Andy Matuschak [2019]
+* [How can we develop transformative tools for thought?](https://numinous.productions/ttft/) by Andy Matuschak and Michael Nielsen [2019]
 
 ## Books
 

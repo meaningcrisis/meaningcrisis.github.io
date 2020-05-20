@@ -118,4 +118,5 @@ A few particularly beautiful examples:
 * <https://atomicdesign.bradfrost.com>
 * <https://breakingsmart.com/en/season-1>
 * <http://worrydream.com/MagicInk>
-
+* <https://alwaysreadthemanual.com>
+* <http://webtypography.net>

@@ -17,7 +17,7 @@ Interactive prompts can help to encourage learners to use effective learning str
 
 ## Demos
 
-* https://quantum.country
+* <https://quantum.country>
 
 ## Software
 

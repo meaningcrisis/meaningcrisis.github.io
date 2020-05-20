@@ -82,6 +82,14 @@ A proper hypertext book is not merely a variant of an analog book. Hypertext boo
 - **created by**: Patricio Gonzalez Vivo and Jen Lowe
 - **project description**: <https://thebookofshaders.com/00>
 
+#  Seeing Circles, Sines, and Signals
+
+- **available at**: <https://jackschaedler.github.io/circles-sines-signals/>
+<img align="right" width="200"  src="/assets/images/circles.png">
+- **noteworthy features**: interactive illustrations
+- **created by**: Jack Schaedler
+
+
 
 # Web Books
 
@@ -89,4 +97,5 @@ A web book is not a hypertext book. By definition, a web book would work equally
 
 A few particularly beautiful examples:
 
+* <http://neuralnetworksanddeeplearning.com>
 * 

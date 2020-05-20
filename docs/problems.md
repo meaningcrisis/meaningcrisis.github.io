@@ -20,7 +20,11 @@ How can hypertext books be monetized?
 <details>
 <summary>Chicken-Egg problem</summary>
   
-"No one understands what a hypertext book is, because there are so few of them; there are few because the tools are inadequate; there’s no demand for better tools because no one wants to write hypertext books, because no one can read them…." [David Chapman](https://twitter.com/Meaningness/status/1154827701754007552)
+"No one understands what a hypertext book is, because there are so few of them; there are few because the tools are inadequate; there’s no demand for better tools because no one wants to write hypertext books, because no one can read them…."
+<a href="https://twitter.com/Meaningness/status/1154827701754007552">David Chapman</a>
+
+
+
   
 </details>
 
@@ -37,7 +41,8 @@ How can hypertext books be monetized?
   
 Hypertext reading UX has many challenges and is generally perceived as unpleasant. There is no easy option to create hypertext books, i.e. technical barriers.
 
-"Well, if you *want* to write a web-first book—again, not even a fancy new-media thing, just a book whose text is online—there's no quick consumer-grade solution. Spin up Ghost and write some HTML, I guess. Or elaborately theme a Wordpress?" - [Andy Matuschak](https://twitter.com/andy_matuschak/status/1246937720145866753)
+"Well, if you *want* to write a web-first book—again, not even a fancy new-media thing, just a book whose text is online—there's no quick consumer-grade solution. Spin up Ghost and write some HTML, I guess. Or elaborately theme a Wordpress?" - <a href="https://twitter.com/andy_matuschak/status/1246937720145866753">Andy Matuschak</a>
+
   
 </details>
 

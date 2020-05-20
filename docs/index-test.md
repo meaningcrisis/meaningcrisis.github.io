@@ -67,7 +67,7 @@ A proper hypertext book is not merely a variant of an analog book. Hypertext boo
 
 #  A Primer on Bézier Curves
 
-<img align="right" width="250"  src="/assets/images/bezier.png">
+<img align="right" width="200"  src="/assets/images/bezier.png">
 
 - **available at**: <https://pomax.github.io/bezierinfo>
 - **noteworthy features**: interactive illustrations, comments

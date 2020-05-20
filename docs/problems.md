@@ -6,7 +6,7 @@ nav_order: 3
 
 #  Problems 
 
-Why are hypertext books not more common?
+Why aren't hypertext books more common?
 
 <details>
 <summary>Monetization problem. </summary>

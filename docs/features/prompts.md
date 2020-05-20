@@ -15,7 +15,7 @@ Interactive prompts can help to encourage learners to use effective learning str
     <em>Source: <a href="https://numinous.productions/ttft/">How can we develop transformative tools for thought?</a> by Andy Matuschak and Michael Nielsen</em> 
 </p>
 
-## Demos
+## Implementations
 
 * <https://quantum.country>
 

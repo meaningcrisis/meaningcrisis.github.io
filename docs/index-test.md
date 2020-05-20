@@ -4,6 +4,8 @@ title: About
 nav_order: 99
 ---
 
+# About
+
 <p  style="font-size:12px;float:right;margin-left:20px;">
   <img alt="img-name" src="/assets/images/hyperlearning3.svg" width="250">
   <br>

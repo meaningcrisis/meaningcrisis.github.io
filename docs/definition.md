@@ -7,8 +7,10 @@ nav_order: 2
 #  Definitions
 
 * An analog book is charactized by a sequential structure and no further features.
-* A normal digital book is also characterized by a sequential structure but has additionally clickable links between pages.
-* A hypertext book is a book "multi-dimensional" text, following the mathematical use of the term "hyper". (For instance, a hypersphere is a higher-dimensional sphere.)
+* A normal digital book is also characterized by a sequential structure but has additionally clickable links between pages. Subcategories of digital books are:
+** Ebooks, which are primarily optimized to be read on eReaders and tablets.
+** Web books, which are optimized to be read to a computer screen.
+* A hypertext book is a non-sequential, "multi-dimensional" text.
 
 
 <p  style="font-size:12px;text-align:center;">

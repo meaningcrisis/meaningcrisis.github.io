@@ -12,7 +12,7 @@ nav_order: 2
 
 
 <p  style="font-size:12px;text-align:center;">
-  <img alt="img-name" src="/assets/images/hyperbook3.svg" width="350">
+  <img alt="img-name" src="/assets/images/hyperbook4.svg" width="350">
 </p>
 
 There are various possibilities to add dimensions to a text. For example, by

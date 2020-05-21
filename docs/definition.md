@@ -10,17 +10,15 @@ nav_order: 2
 * A normal digital book is also characterized by a sequential structure but has additionally clickable links between pages. Subcategories of digital books are:
   * Ebooks, which are primarily optimized to be read on eReaders and tablets.
   * Web books, which are optimized to be read to a computer screen.
-* A hypertext book is a non-sequential, "multi-dimensional" text.
-
+* A hypertext book is a non-sequential, "multi-dimensional" text. There are various possibilities to add dimensions to a text. For example, by
+  * [offering multiple versions of each page](/docs/features/perspectives/),
+  * [adding an authored time dimension](/docs/features/time/) 
 
 <p  style="font-size:12px;text-align:center;">
   <img alt="img-name" src="/assets/images/hyperbook4.svg" width="350">
 </p>
 
-There are various possibilities to add dimensions to a text. For example, by
 
-* [offering multiple versions of each page](/docs/features/perspectives/),
-* [adding an authored time dimension](/docs/features/time/) 
 
 ## References
 

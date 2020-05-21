@@ -22,7 +22,7 @@ There are various possibilities to add dimensions to a text. For example, by
 * [offering multiple versions of each page](/docs/features/perspectives/)
 * [adding an authored time dimension](/docs/features/time/) 
 
----
+## References
 
 "By 'hypertext' mean nonsequential writing - text that branches and allows choice to the reader, best read at an interactive screen." - Ted Nelson, *Literary Machines*
 

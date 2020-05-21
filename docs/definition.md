@@ -15,10 +15,10 @@ nav_order: 2
   <img alt="img-name" src="/assets/images/hyperbook3.svg" width="350">
 </p>
 
-There are various possibilities to add dimensions to a text:
+There are various possibilities to add dimensions to a text. For example, by
 
-* [Offer multiple versions of each page](/docs/features/perspectives/)
-* [Add an authored time dimension](/docs/features/time/) 
+* [offering multiple versions of each page](/docs/features/perspectives/)
+* [adding an authored time dimension](/docs/features/time/) 
 
 ---
 

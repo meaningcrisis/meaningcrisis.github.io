@@ -19,7 +19,7 @@ nav_order: 2
 
 There are various possibilities to add dimensions to a text. For example, by
 
-* [offering multiple versions of each page](/docs/features/perspectives/)
+* [offering multiple versions of each page](/docs/features/perspectives/),
 * [adding an authored time dimension](/docs/features/time/) 
 
 ## References

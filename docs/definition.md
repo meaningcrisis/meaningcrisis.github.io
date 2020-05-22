@@ -11,10 +11,7 @@ nav_order: 2
   * Ebooks, which are primarily optimized to be read on eReaders and tablets.
   * Web books, which are optimized to be read to a computer screen.
 * A hypertext book is a non-sequential, "multi-dimensional" text. There are various possibilities to add dimensions to a text. For example, by
-  * [offering multiple versions of each page](/docs/features/perspectives/),
-  <p  style="font-size:12px;text-align:center;">
-  <img alt="img-name" src="/assets/images/multipleversions.svg" width="450">
- </p>
+  * [offering multiple versions of each page](/docs/features/perspectives/), <img alt="img-name" src="/assets/images/multipleversions.svg" width="450">
   * adding an authored time dimension.
 
 <p  style="font-size:12px;text-align:center;">

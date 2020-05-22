@@ -24,6 +24,6 @@ nav_order: 2
 
 ## References
 
->"By 'hypertext' mean nonsequential writing - text that branches and allows choice to the reader, best read at an interactive screen." - Ted Nelson, *Literary Machines*
+>"By 'hypertext' I mean nonsequential writing - text that branches and allows choice to the reader, best read at an interactive screen." - Ted Nelson, *Literary Machines*
 
 >"Hyper-media are branching or performing presentations which respond to user actions, systems of prearranged words and pictures (for example) which may be explored freely or queried in stylized ways. They will not be “programmed,” but rather designed, written, drawn and edited, by authors, artists, designers and editors. (To call them “programmed” would suggest spurious technicality. Computer systems to present them will be “programmed.”) Like ordinary prose and pictures, they will be media; and because they are in some sense “multi-dimensional,” we may call them hyper-media, following mathematical use of the term “hyper-.”" - Ted Nelson, *Dream Machines*

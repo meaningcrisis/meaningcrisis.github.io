@@ -15,7 +15,7 @@ nav_order: 2
   * adding an authored time dimension.
 
 <p  style="font-size:12px;text-align:center;">
-  <img alt="img-name" src="/assets/images/hyperbook5.svg" width="450">
+  <img alt="img-name" src="/assets/images/hyperbook6.svg" width="450">
 </p>
 
 

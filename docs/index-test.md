@@ -12,7 +12,7 @@ nav_order: 99
     <em>Adapted from Dream Machines by Ted Nelson</em> 
 </p>
 
-The creation of this site is motiated by two observations: 
+The creation of this site is motivated by two observations: 
 
 1. Computer Lib / Dream Machines by Ted Nelson is half a century old but almost no one writes hypertext books. 
 2. It hardly got any easier to learn a challenging subject like quantum field theory compared to half a century ago. 

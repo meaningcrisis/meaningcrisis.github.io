@@ -15,7 +15,7 @@ Is a sequence of pages, divided into pre-defined chapters, with possibly a few e
 While in past there were admittely limited possibilities to invent new media, nowadays it's only a lack of imagination that is stopping us. It's time to reimagine the future of learning.
 
 
-[Read the linear Whitepaper](#getting-started){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } [Read the non-linear Whitepaper](https://github.com/pmarsceill/just-the-docs){: .btn .fs-5 .mb-4 .mb-md-0 }
+[Read Whitepaper](#getting-started){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } [Read the Hypertext Whitepaper](https://github.com/pmarsceill/just-the-docs){: .btn .fs-5 .mb-4 .mb-md-0 }
 
 
 

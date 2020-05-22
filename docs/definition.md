@@ -16,7 +16,7 @@ nav_order: 2
   * Web books, which are optimized to be read to a computer screen.
 * A hypertext book is a non-sequential, "multi-dimensional" text. There are various possibilities to add dimensions to a text. For example, by
   * [offering multiple versions of each page](/docs/features/perspectives/), <img alt="img-name" src="/assets/images/multipleversions.svg" width="450">
-  * adding an authored time dimension.
+  * adding an authored time dimension. <img alt="img-name" src="/assets/images/timedimension.svg" width="450">
 
 
 

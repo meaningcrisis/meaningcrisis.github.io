@@ -19,6 +19,9 @@ The creation of this site is motivated by two observations:
 
 This is astonishing because novel explanatory media have the potential to revolutionize the way we understand challenging subjects. Moreover, nowadays it's easy to implement almost any imaginable feature and yet no one makes use of these possibilities.  
 
+
 ---
 
 The page is maintained by [Jakob Schwichtenberg](http://jakobschwichtenberg.com/)
+
+

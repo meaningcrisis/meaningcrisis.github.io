@@ -6,6 +6,10 @@ nav_order: 2
 
 #  Definitions
 
+<p  style="font-size:12px;text-align:center;">
+  <img alt="img-name" src="/assets/images/hyperbook6.svg" width="450">
+</p>
+
 * An analog book is charactized by a sequential structure and no further features.
 * A normal digital book is also characterized by a sequential structure but has additionally clickable links between pages. Subcategories of digital books are:
   * Ebooks, which are primarily optimized to be read on eReaders and tablets.
@@ -14,9 +18,7 @@ nav_order: 2
   * [offering multiple versions of each page](/docs/features/perspectives/), <img alt="img-name" src="/assets/images/multipleversions.svg" width="450">
   * adding an authored time dimension.
 
-<p  style="font-size:12px;text-align:center;">
-  <img alt="img-name" src="/assets/images/hyperbook6.svg" width="450">
-</p>
+
 
 
 

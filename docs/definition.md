@@ -18,7 +18,7 @@ nav_order: 2
   * [offering multiple versions of each page](/docs/features/perspectives/), <img alt="img-name" src="/assets/images/multipleversions.svg" width="450">
   * adding an authored time dimension. <img alt="img-name" src="/assets/images/timedimension.svg" width="450">
 
-A further important distinction is that hypertext books are *not* learning apps or games. The goal is, to quote Ted Nelson: to "motivate the user and let him loose in a wonderful place. Let the student control the sequence, put him in control of interesting and clear material, and make him feel good — comfortable, interested, and autonomous."
+A further important distinction is that hypertext books are *not* learning apps or games. The goal is, to quote Ted Nelson, to "motivate the user and let him loose in a wonderful place. Let the student control the sequence, put him in control of interesting and clear material, and make him feel good — comfortable, interested, and autonomous."
 
 
 

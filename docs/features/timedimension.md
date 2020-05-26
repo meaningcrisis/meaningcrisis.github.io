@@ -7,12 +7,12 @@ nav_order: 2
 
 #  Authored Time Dimension
 
-<img alt="img-name" src="/assets/images/timedimension.svg" width="450">
 
 Constant reading is paralyzing for the mind. Instead of a continous stream of information, we need periods in which we can think for ourselves and let ideas marinate in our heads. This is related to the idea of spacing in cognitive science.
 
 An authored time dimension, i.e. unlocking certain content after a while or enforcing breaks, could help readers to make use of the power of spacing. Another way to put it, is that effective explanatory media need whitespaces for thinking.
 
+<img alt="img-name" src="/assets/images/timedimension.svg" width="450">
 
 
 ## References

@@ -12,5 +12,10 @@ nav_order: 6
 
 <p  style="font-size:12px;text-align:center;">
   <img alt="img-name" src="/assets/images/support.gif" width="550">
-
 </p>
+
+## Software
+
+* https://crisp.chat/en/
+* https://nolt.io/
+

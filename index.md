@@ -11,10 +11,9 @@ Although we live in the 21. century, reading a textbook [is still the best strat
 
 Is a sequence of pages, divided into pre-defined chapters, with possibly a few exercises sprinkled in-between really the optimum?
 
-While in past there were admittely limited possibilities to invent new media, nowadays it's only a lack of imagination that is stopping us. It's time to reimagine the future of learning.
+While in past there were admittely limited possibilities to invent new media, nowadays it's only a lack of imagination that is stopping us. 
 
 
-[Read Whitepaper](#getting-started){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } [Read the Hypertext Whitepaper](https://github.com/pmarsceill/just-the-docs){: .btn .fs-5 .mb-4 .mb-md-0 }
 
 
 

@@ -18,4 +18,5 @@ nav_order: 6
 
 * https://crisp.chat/en/
 * https://nolt.io/
+* https://www.freshworks.com/
 

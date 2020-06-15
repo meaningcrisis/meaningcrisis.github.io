@@ -21,7 +21,7 @@ Interactive prompts can help to encourage learners to use effective learning str
 
 ## Software
 
-Currently no good software exists that allows authors to integrate, for example, interactive spaced retrieval practice prompts. 
+Currently no good software exists that allows authors to integrate, for example, interactive spaced retrieval practice prompts. But [Andy Matuschak](https://www.patreon.com/posts/big-milestone-36827866) is currently creating such a software.
 
 ## References
 

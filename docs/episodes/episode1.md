@@ -9,6 +9,14 @@ nav_order: 2
 
 [![](http://img.youtube.com/vi/54l8_ewcOlY/0.jpg)](http://www.youtube.com/watch?v=54l8_ewcOlY)
 
+## Summaries
+
+- [Summary by Kaue Silveira](https://kaue.me/meaning/awareness/john-vervaeke-awakening-from-the-meaning-crisis-episode-1-introduction-summary/)
+- [Summary by Mark Mulvey](https://medium.com/@markmulvey/awakening-from-the-meaning-crisis-by-john-vervaeke-ep-1-summary-notes-ccfb6a0ebf46)
+
+## Discussions
+
+- [Discussion by the Bevry Community](https://discuss.bevry.me/t/2019-06-08-awakening-from-the-meaning-crisis-1/823)
 
 
 ## Transcript

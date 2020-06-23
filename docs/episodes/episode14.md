@@ -13,16 +13,14 @@ permalink: /episodes/14
 
 ## Summaries
 
-- [Summary by Kaue Silveira](https://kaue.me/meaning/awareness/john-vervaeke-awakening-from-the-meaning-crisis-episode-1-introduction-summary/)
-- [Summary by Mark Mulvey](https://medium.com/@markmulvey/awakening-from-the-meaning-crisis-by-john-vervaeke-ep-1-summary-notes-ccfb6a0ebf46)
+- [Summary by the Bevry Community](https://discuss.bevry.me/t/ep-14-awakening-from-the-meaning-crisis-epicurians-cynics-and-stoics/882)
 
-## Discussions
 
-- [Discussion by the Bevry Community](https://discuss.bevry.me/t/2019-06-08-awakening-from-the-meaning-crisis-1/823)
+
 
 ## Keywords
 
-Socrates, epicurean, axial revolution, Plato, parasitic processing, hellenistic period, great disciples, anxiety, form of psychotherapy, loss of agency, kind of things, cognitive therapy, loss of home, hellenistic era, Greek culture, mortality, Aristotle, stoicism, everybody, people, many people, meaning crisis, honest man, great philosopher, current situation, current form, meaningful relationship, modern day, psycho technology, awakening experience
+Socrates, Epicurean, axial revolution, Plato, parasitic processing, hellenistic period, great disciples, anxiety, form of psychotherapy, loss of agency, kind of things, cognitive therapy, loss of home, hellenistic era, Greek culture, mortality, Aristotle, stoicism, everybody, people, many people, meaning crisis, honest man, great philosopher, current situation, current form, meaningful relationship, modern day, psycho technology, awakening experience
 
 
 ## Transcript

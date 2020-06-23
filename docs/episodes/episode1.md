@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Episode 1 - Introduction
-parent: Features
+parent: Episodes
 nav_order: 2
 ---
 

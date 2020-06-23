@@ -3,6 +3,8 @@ layout: default
 title: Episode 1 - Introduction
 parent: Episodes
 nav_order: 2
+permalink: /episodes/1
+
 ---
 
 # Episode 1 - Introduction

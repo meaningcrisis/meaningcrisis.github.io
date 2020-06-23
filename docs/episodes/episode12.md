@@ -16,9 +16,7 @@ permalink: /episodes/12
 - [Summary by the Bevry Community](https://discuss.bevry.me/t/ep-12-awakening-from-the-meaning-crisis-higher-states-of-consciousness-part-2/866)
 - [Summary by Andrew Sweeny](https://medium.com/@andrewpgsweeny/higher-states-of-consciousness-9882876d2a5d)
 
-## Keywords
 
-Socrates, Epicurean, axial revolution, Plato, parasitic processing, hellenistic period, great disciples, anxiety, form of psychotherapy, loss of agency, kind of things, cognitive therapy, loss of home, hellenistic era, Greek culture, mortality, Aristotle, stoicism, everybody, people, many people, meaning crisis, honest man, great philosopher, current situation, current form, meaningful relationship, modern day, psycho technology, awakening experience
 
 
 ## Transcript

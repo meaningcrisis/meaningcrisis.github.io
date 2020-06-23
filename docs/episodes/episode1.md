@@ -7,7 +7,7 @@ nav_order: 2
 
 # Episode 1 - Introduction
 
-[![](http://img.youtube.com/vi/54l8_ewcOlY/0.jpg)](http://www.youtube.com/watch?v=54l8_ewcOlY "")
+[![](http://img.youtube.com/vi/54l8_ewcOlY/0.jpg)](http://www.youtube.com/watch?v=54l8_ewcOlY)
 
 
 

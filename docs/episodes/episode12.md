@@ -3,7 +3,7 @@ layout: default
 title: Episode 12 - Higher States of Consciousness, Part 2
 parent: Episodes
 nav_order: 3
-permalink: /episodes/14
+permalink: /episodes/12
 
 ---
 
@@ -14,9 +14,7 @@ permalink: /episodes/14
 ## Summaries
 
 - [Summary by the Bevry Community](https://discuss.bevry.me/t/ep-12-awakening-from-the-meaning-crisis-higher-states-of-consciousness-part-2/866)
-
-
-
+- [Summary by Andrew Sweeny](https://medium.com/@andrewpgsweeny/higher-states-of-consciousness-9882876d2a5d)
 
 ## Keywords
 

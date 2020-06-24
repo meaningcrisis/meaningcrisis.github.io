@@ -9,7 +9,7 @@ permalink: /episodes/12
 
 # Episode 12 - Higher States of Consciousness, Part 2
 
-[![](http://img.youtube.com/vi/rvx4_0NAfaY/0.jpg)](http://www.youtube.com/watch?v=rvx4_0NAfaY)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rvx4_0NAfaY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Summaries
 

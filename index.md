@@ -6,9 +6,9 @@ description: "Awakening from the Meaning Crisis is a lecture series by John Vaer
 permalink: /
 ---
 
-Although the living standard of most people is nowdays much higher than ever before, the feeling that something important is missing from their lives is common. Phenomena like depression are widespread and many people struggle with existential angst. At the same time, ancient solutions of dealing with these issues like stoicism, buddhism, mindfulness but also modern solutions like psychotherapy are becoming increasingly popular. 
+Although the living standard of most people is nowdays much higher than ever before, the feeling that something important is missin is common. Phenomena like depression are widespread and many people struggle with existential angst. At the same time, ancient solutions of dealing with these issues like stoicism and mindfulness but also modern solutions like psychotherapy are becoming increasingly popular. While each of these frameworks offers psychotechnologies that have the potential to help this rearely happens because they're misrepresented and misunderstood.
 
-A proper understanding of the underlying problems requires a deep dive that touches areas like cognitive science, religion, machine learning, and philosophy.
+A proper understanding of the underlying problems requires that we move beyond dogman and dive deep into areas like cognitive science, religion, machine learning, and philosophy.
 
 >"If anybody offers you an answer to this crisis in an hour I would wager that they are deceiving you, manipulating or they are in themselves significantly self deceived. [...] Many people are talking about the meaning crisis, but what I want to argue is that these problems are deeper than just social media problems, political problems, even economic problems… they’re deeply historical, cultural, cognitive problems." - John Vervaeke
 

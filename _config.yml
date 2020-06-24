@@ -35,7 +35,7 @@ heading_anchors: true
 
 
 # Footer content appears at the bottom of every page's main content
-footer_content: 
+footer_content: This website is not officially affiliated with John Vervaeke. It's created and maintained by fans of his lecture series with the sole goal to make it more accessible.
 
 # Color scheme currently only supports "dark" or nil (default)
 color_scheme: nil

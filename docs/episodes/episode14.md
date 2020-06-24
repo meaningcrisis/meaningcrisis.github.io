@@ -9,11 +9,12 @@ permalink: /episodes/14
 
 # Episode 14 - Epicureans, Cynics, and Stoics
 
-[![](http://img.youtube.com/vi/rpndwf45nao/0.jpg)](http://www.youtube.com/watch?v=rpndwf45nao)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rpndwf45nao" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Summaries
 
 - [Summary by the Bevry Community](https://discuss.bevry.me/t/ep-14-awakening-from-the-meaning-crisis-epicurians-cynics-and-stoics/882)
+- [Summary by Andrew Sweeny](https://medium.com/@andrewpgsweeny/noble-provocations-67689201a494)
 
 
 

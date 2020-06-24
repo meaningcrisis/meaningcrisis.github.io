@@ -14,11 +14,12 @@
 
   .navigation-list-link {
     color: $nav-child-link-color;
+    font-size: 16px !important;
   }
 
   .navigation-list-item {
     position: relative;
-    font-size: 16px !important;
+    
 
     &::before {
       position: absolute;

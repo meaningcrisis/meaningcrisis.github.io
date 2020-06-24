@@ -2,10 +2,11 @@
 // Main nav, breadcrumb, etc...
 //
 .navigation-list {
-  padding: 0;
+  padding: 0; 
   margin-top: 0;
   margin-bottom: 0;
   list-style: none;
+  font-size: 18px;
 }
 
 .navigation-list-child-list {
@@ -14,12 +15,11 @@
 
   .navigation-list-link {
     color: $nav-child-link-color;
-    font-size: 18px !important;
   }
 
   .navigation-list-item {
     position: relative;
-    font-size: 18px !important;
+    
 
     &::before {
       position: absolute;
@@ -38,11 +38,11 @@
 }
 
 .navigation-list-item {
-  
+
   margin: 0;
 
   @include mq(md) {
-    @include fs-3;
+
   }
 
   .navigation-list-child-list {

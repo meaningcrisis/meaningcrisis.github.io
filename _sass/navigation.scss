@@ -6,6 +6,7 @@
   margin-top: 0;
   margin-bottom: 0;
   list-style: none;
+  font-size: 18px;
 }
 
 .navigation-list-child-list {
@@ -18,7 +19,7 @@
 
   .navigation-list-item {
     position: relative;
-    font-size: 18px;
+    
 
     &::before {
       position: absolute;

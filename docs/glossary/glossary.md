@@ -1,12 +1,12 @@
 ---
 layout: default
-title: Utilities
+title: Glossary
 nav_order: 4
 has_children: true
-permalink: utilities
+permalink: glossary
 ---
 
-# Utilities
+# Glossary
 {: .no_toc }
 
 {: .fs-6 .fw-300 }

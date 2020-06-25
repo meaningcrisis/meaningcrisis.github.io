@@ -1,13 +1,13 @@
 ---
 layout: default
-title: Episode 8 - The Buddha and "Mindfulness"
+title: Episode 8 - The Buddha and Mindfulness
 parent: Episodes
 nav_order: 8
 permalink: /episodes/8
 
 ---
 
-# Episode 8 - The Buddha and "Mindfulness"
+# Episode 8 - The Buddha and Mindfulness
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/EWumJSBqXa8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

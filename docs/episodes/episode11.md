@@ -2,7 +2,6 @@
 layout: default
 title: Episode 11 - Higher States of Consciousness, Part 1
 parent: Episodes
-nav_order: 3
 permalink: /episodes/11
 
 ---
@@ -16,7 +15,12 @@ permalink: /episodes/11
 - [Summary by the Bevry Community](https://discuss.bevry.me/t/ep-12-awakening-from-the-meaning-crisis-higher-states-of-consciousness-part-2/866)
 - [Summary by Andrew Sweeny](https://medium.com/@andrewpgsweeny/higher-states-of-consciousness-9882876d2a5d)
 
+## Main Sources
 
+- Hubert Dreyfus and Charles Taylor - Retrieving Realism
+- Maurice Merleau-Ponty - Phenomenology of Perception
+- Andrew Newberg and Mark Robert Waldman - How Enlightenment Changes Your Brain: The New Science of Transformation
+- Elaine Scarry - On Beauty and Being Just
 
 
 ## Transcript

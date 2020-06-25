@@ -15,7 +15,13 @@ permalink: /episodes/13
 - [Summary by the Bevry Community](https://discuss.bevry.me/t/ep-13-awakening-from-the-meaning-crisis-buddhism-and-parasitic-processing/879)
 - [Summary by Andrew Sweeny](https://medium.com/@andrewpgsweeny/noble-provocations-67689201a494)
 
+## Main Sources
 
+- Stephen Batchelor – The Awakening of the West: The Encounter of Buddhism and Western Culture
+- Stephen Batchelor – Buddhism without Beliefs: A Contemporary Guide to Awakening
+- Stephen Batchelor – Alone with Others: An Existential Approach to Buddhism
+- Stephen Batchelor – After Buddhism: Rethinking the Dharma for a Secular Age
+- Marc Lewis – Memoirs of an Addicted Brain
 
 
 ## Transcript

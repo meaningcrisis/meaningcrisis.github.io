@@ -2,7 +2,6 @@
 layout: default
 title: Episode 15 - Epicureans, Cynics, and Stoics
 parent: Episodes
-nav_order: 3
 permalink: /episodes/15
 
 ---
@@ -14,7 +13,14 @@ permalink: /episodes/15
 
 - [Summary by the Bevry Community](https://discuss.bevry.me/t/ep-15-awakening-from-the-meaning-crisis-marcus-aurelius-and-jesus/884/2)
 
+## Main Sources
 
+- Marcus Aurelius - Meditations
+- Julian Barnes – A History of the World in 10 ½ Chapters
+- Erich Fromm – To Have or To Be?
+- Pierre Hadot - What Is Ancient Philosophy?
+- Pierre Hadot - Philosophy as a Way of Life: Spiritual Exercises from Socrates to Foucault
+- Margaret Visser – Beyond Fate
 
 
 

@@ -2,7 +2,6 @@
 layout: default
 title: Episode 14 - Epicureans, Cynics, and Stoics
 parent: Episodes
-nav_order: 3
 permalink: /episodes/14
 
 ---
@@ -16,7 +15,9 @@ permalink: /episodes/14
 - [Summary by the Bevry Community](https://discuss.bevry.me/t/ep-14-awakening-from-the-meaning-crisis-epicurians-cynics-and-stoics/882)
 - [Summary by Andrew Sweeny](https://medium.com/@andrewpgsweeny/noble-provocations-67689201a494)
 
+## Main Sources
 
+- Paul Tillich - The Courage to Be
 
 
 ## Keywords

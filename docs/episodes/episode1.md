@@ -2,6 +2,7 @@
 layout: default
 title: Episode 1 - Introduction
 parent: Episodes
+nav_order: 1
 permalink: /episodes/1
 
 ---

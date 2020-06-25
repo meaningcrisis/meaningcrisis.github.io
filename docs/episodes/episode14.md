@@ -2,6 +2,7 @@
 layout: default
 title: Episode 14 - Epicureans, Cynics, and Stoics
 parent: Episodes
+nav_order: 14
 permalink: /episodes/14
 
 ---

@@ -2,6 +2,7 @@
 layout: default
 title: Episode 18 - Plotinus and Neoplatonism
 parent: Episodes
+nav_order: 18
 permalink: /episodes/18
 
 ---

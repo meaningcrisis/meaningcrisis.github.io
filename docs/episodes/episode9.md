@@ -2,6 +2,7 @@
 layout: default
 title: Episode 9 - Insight
 parent: Episodes
+nav_order: 9
 permalink: /episodes/9
 
 ---

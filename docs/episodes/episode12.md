@@ -2,6 +2,7 @@
 layout: default
 title: Episode 12 - Higher States of Consciousness, Part 2
 parent: Episodes
+nav_order: 12
 permalink: /episodes/12
 
 ---

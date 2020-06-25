@@ -2,6 +2,7 @@
 layout: default
 title: Episode 13 - Buddhism and Parasitic Processing
 parent: Episodes
+nav_order: 13
 permalink: /episodes/13
 
 ---

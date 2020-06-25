@@ -2,6 +2,7 @@
 layout: default
 title: Episode 8 - The Buddha and "Mindfulness"
 parent: Episodes
+nav_order: 8
 permalink: /episodes/8
 
 ---

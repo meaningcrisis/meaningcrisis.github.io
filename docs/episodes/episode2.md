@@ -2,6 +2,7 @@
 layout: default
 title: Episode 2 - Flow, Metaphor, and the Axial Revolution
 parent: Episodes
+nav_order: 2
 permalink: /episodes/2
 
 ---

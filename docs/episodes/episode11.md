@@ -2,6 +2,7 @@
 layout: default
 title: Episode 11 - Higher States of Consciousness, Part 1
 parent: Episodes
+nav_order: 11
 permalink: /episodes/11
 
 ---

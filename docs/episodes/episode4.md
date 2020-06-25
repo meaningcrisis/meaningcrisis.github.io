@@ -2,6 +2,7 @@
 layout: default
 title: Episode 4 - Socrates and the Quest for Wisdom
 parent: Episodes
+nav_order: 4
 permalink: /episodes/4
 
 ---

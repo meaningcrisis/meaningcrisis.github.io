@@ -2,6 +2,7 @@
 layout: default
 title: Episode 6 - Aristotle, Kant, and Evolution
 parent: Episodes
+nav_order: 6
 permalink: /episodes/6
 
 ---

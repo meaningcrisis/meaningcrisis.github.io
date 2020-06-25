@@ -2,6 +2,7 @@
 layout: default
 title: Episode 5 - Plato and the Cave
 parent: Episodes
+nav_order: 5
 permalink: /episodes/5
 
 ---

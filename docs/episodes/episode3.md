@@ -2,6 +2,7 @@
 layout: default
 title: Episode 3 - Continuous Cosmos and Modern World Grammar
 parent: Episodes
+nav_order: 3
 permalink: /episodes/3
 
 ---

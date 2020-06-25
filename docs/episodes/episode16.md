@@ -2,6 +2,7 @@
 layout: default
 title: Episode 16 - Christianity and Agape
 parent: Episodes
+nav_order: 16
 permalink: /episodes/16
 
 ---

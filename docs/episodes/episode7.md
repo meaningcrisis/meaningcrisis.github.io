@@ -2,6 +2,7 @@
 layout: default
 title: Episode 7 - Aristotle's World View and Erich Fromm
 parent: Episodes
+nav_order: 7
 permalink: /episodes/7
 
 ---

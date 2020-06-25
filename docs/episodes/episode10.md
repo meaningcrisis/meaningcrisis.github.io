@@ -2,6 +2,7 @@
 layout: default
 title: Episode 10 - Consciousness
 parent: Episodes
+nav_order: 10
 permalink: /episodes/10
 
 ---

@@ -2,6 +2,7 @@
 layout: default
 title: Episode 17 - Gnosis and Existential Inertia
 parent: Episodes
+nav_order: 17
 permalink: /episodes/17
 
 ---

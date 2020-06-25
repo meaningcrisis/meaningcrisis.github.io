@@ -13,6 +13,7 @@ permalink: /episodes/16
 ## Summaries
 
 - [Summary by the Bevry Community](https://discuss.bevry.me/t/ep-16-awakening-from-the-meaning-crisis-christianity-and-agape/887)
+- [Summary by Andrew Sweeny](https://medium.com/@andrewpgsweeny/christ-and-gnosis-15ea82428f75)
 
 
 

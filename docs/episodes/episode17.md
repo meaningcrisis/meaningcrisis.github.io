@@ -30,6 +30,7 @@ Welcome back to awakening from the meaning crisis. Last time we tried something 
 Two others. John's radical idea that God is in fact, this a God Bay. That is actually what we've always been talking about when we get into talking about God, and then Paul's radical personalization of this and how the metanoia of his own transformation is seen by him as a powerful instance of this.
 
 Gnosis  but how that also carried with it a potential dark side in which elements of our, of his identity get projected onto cosmic history and the idea of inner conflict within history, within God, as being reflecting reflected of and reflected in his own inner conflict between. The old saw and the new Paul and how much this Gnosis participatory knowing is bound up with an exploration and an understanding of how our agency can be fractured, how we can be at war at ourselves with ourselves, how we can suffer.
+
 And I want to take this up because the notion of how we can suffer. How we can become at war with ourselves, how our agency could be undermined and how much cosmic forces may be aligned with our suffering becomes a central idea amongst a group of people known, or at least called by their enemies. The Gnostics.
 Now there's a lot of controversy about whether or not this is a useful. theoretical construct it's there, there were, there might've been some Gnosis communities. It's more. It's more opt to think of Gnosticism as a style and a way of thinking like existentialism or fundamentalism, right? It's it's you don't go to like a fundamentalist church.
 
@@ -43,35 +44,53 @@ They are the attempt to take the Axial revolution to its culmination, to its rat
 So let's, let's get, let's work our way into what this is. We've already got some sense of what this is. We've had a lot of discussion, participatory, knowing and perspective will knowing, and Gnosis has both of those elements in it of transformative experience. We're going to try and draw this all together, but let's work our way into this.
 
 So we've talked about a worldview and a worldview is when you have. A way you have this deeply integrated dynamically, coupled way of seeing yourself, your agency and seeing the world as an arena, you have this bi-directional modeling. It is simultaneously modeling the world to you and modeling you to shape the world, this mutual conformity, this reciprocal revelation, right?
+
 So that's a worldview. This has happened to me and I hope something similar has happened to you perhaps when you're reading a book, a novel or I'll use an example, I'm reading the works of a particular philosopher. let's say it's spinosa right. And I'll be reading and I'll, you know, and Spinosad is a profound, a deep thinker and you spend a lot of time and you're reading the arguments and you're, you're trying to understand, and you can come to follow the arguments.
+
 You can come to follow the inferences. You can even come to believe some of the spinosa conclusions. And so you have a lot of beliefs and they're not, they don't even have to be in cohort. They can be sort of. systematically related together, but then something else happens sometimes. Not always, but it's happened to me multiple occasions.
+
 And it's often what I'm trying to convey above and beyond what I'm saying when I'm teaching other people when reading spinosa and there's, it's like, there's this change I go from seeing what Spinoza is saying. To seeing things the way spinosa says, that's like, right. Spinosa goes from something I, you know, Oh, I believe, but spinosa saying that.
+
 And they're, and they're there about the world and about right. About what it is to be a human being. I go from that to actually seeing the world spin as mystically it's because, you know, Spinosad is now to use a metaphor of use. It's not the lens by which I'm both seeing the world and myself. I am now living the world.
 Like as if, as if spinosa was an adverb, I'm living the world synergistically. I, my, I have the perspective of what it is like to see the world the way spinosa did and what it is like to participate. In that worldview, you get this advent of the viability, the livability of a worldview. James talks about that.
 He talks about the difference. William James, the great psychologist and philosopher. He talks about the difference between believing things and it actually being alive option to you.
+
 So what happens there is at least for some period of time, Right. The agent arena relationship, the perspectival and the participatory knowing are now right. Conformed to at least it seems to me to be that way too. What spinosa had, not just what right spinosa said, what, what, what, who, and what Spinoza was and what his world was to him has become available to me now that's important because that.
+
 That viability, that ability to enter into a particular agent arena configuration will help me to take the next step forward. Right? So John Wright talks a lot about sensibility transcendence.
-And he talks about it. And this is based on the really important work of Iris Murdoch and just an absolute gem of a book called the sovereignty of the good. If you read 10 books in your life, one of them should be the sovereignty of the good, your life will be less. If you have not read it. So Murdoch was trying to get beyond sort of the rules and reasons for morality to something much more important.
+
+And he talks about it. And this is based on the really important work of Iris Murdoch and just an absolute gem of a book called the sovereignty of the good. If you read 10 books in your life, one of them should be "The sovereignty of the good". Your life will be less if you have not read it. So Murdoch was trying to get beyond sort of the rules and reasons for morality to something much more important.
+
 She was trying to get to that viability of morality the way in which we pay attention in such a way that our salient landscape and the agent arena relationship is transformed such that we do the good.
-But
-let's use Murdoch's particular example.
-There's a mother-in-law. She has a, she has a son. The son is married to a woman. And she doesn't like this woman mother-in-law doesn't like the woman it's obviously the mother-in-law to the daughter-in-law. She doesn't like this woman. Cause she finds her course
-finds her loud.
-Hmm. Friends are kind of uncouth,
-therefore beneath the sort of elegance, the dignity of her son.
+
+But let's use Murdoch's particular example.
+
+There's a mother-in-law. She has a, she has a son. The son is married to a woman. And she doesn't like this woman mother-in-law doesn't like the woman it's obviously the mother-in-law to the daughter-in-law. She doesn't like this woman. Cause she finds her loud.
+
+Hmm. Friends are kind of uncouth, therefore beneath the sort of elegance, the dignity of her son.
 And then, and think about a  and forgiving here. Think about a God being forgiving, but what happens here at some point, Murdoch says, and it happens like an insight. It happens like when you come out of the nine dot problem, the mother not realizes something now. Okay. And Murdoch is clear about this. It's not a, it's not a normal insight, like normal insight.
+
 We reframe how we're looking at something. I reframe how I look at the nine dots, but what's actually happening is the mother-in-law is having a bi-directional insight. She's not only reframing how she sees the world. She's reframing how she sees herself. And these are happening in a completely.
 Interfused matter. This is a participatory change, the agent or both the agent and the arena side of the relationship are being coached changed together.
+
 So it's not a reframing of this or that. I often use this term. It's a trans framing. It's not a reframing of a particular problem. It's a transformation of the whole framing process, both ends because what's happening is the mother-in-law is seeing the daughter-in-law not as coarse, but as spontaneous, not as uncouth, but sincere, not as lacking an elegance, but as possessing authenticity.
+
 And then she's simultaneously in a code determining fashion, realizing that. The way that she, the mother-in-law has framed things, habitually has been wrong. She's having what we've talked about before that systematic insight, not just an insight here and here, but there's a whole system of errors that she's transformation that she's transforming.
+
 She's going through that kind of developmental transformation that we've talked about. Right. Cause this sensibility transcendence, because what's happening simultaneously is right. The daughter-in-law can be something that she couldn't be before. And the mother-in-law is becoming somebody she couldn't become before.
 She couldn't be before these two things are happening together. Her sensibility, her whole way of. Participating in a worldview at agent arena, relationship is being transformed. And so both things are going through transcendence. Do you see this here's herself? And here's the daughter, the object of her attention, and this is going through self-transcendence, but so is this, and that's happening in a completely conjoined way.
+
 The mother. Right. The mother-in-law is becoming what she couldn't be because of how she is right. Opening up what the daughter-in-law can be. And precisely because she's coming to see have a radical insight into what the daughter-in-law could be, right. Opening up that she's opening up what she can be.
 It's again, this process of participatory knowing reciprocal revelation. Right. And, and it's, you know, there's mutually accelerating disclosure. There's knowing by loving it's a sensibility transcendence. So notice what's happening here. There's a way, right. You can see that I can, I can go through a process like this and enter into a worldview.
+
 And of course that's what Christianity was offering, right? It was offering people that met annoy of how they can go through this radical transformation in this way, opening up the world, opening up themselves, et cetera.
+
 Now, why is that important? Because now I want you to think of the opposite, your inability to enter into, or make viable to yourself a new way of being.
+
 Yeah, in order to get to that. Let me bring up again. Somebody we've spoken before Harry Frankfurt number he's the person who talked about bullshit. Frankfurt also talks about how. Wonderful book reasons for love and the importance of what we care about, how much our reasoning depends on what we love, what we care about, how we're bound into an agent arena relationship.
+
 Now, Frankfurt, it brings up an important notion. He brings up a notion. He calls, I don't quite like this word, but to be fair to him, I can't think of a better word. He calls the unthinkable. So let me give you an example of this.
+
 So the way to think of the unthinkable is although you can make thoughts, images, propositions, run inferences, you can't actually make it viable. You can't go through the sensibility, transcendence that would bring you into living that worldview.
 so here's my example. My, my oldest son currently lives with me and this, this has been such a blessing for me. I get to live with him and spend time with him as right as he's building his career. Now I can think this thought it would be great. If I kicked Jason out, I can run this thought through my head.
 Because if I did then the apartment with the clean I'd have more money. I can draw. I can imagine what it would look like. I can run the thought, right? I can draw drive all the inferences, but what I can't do is actually make this a viable alternative for me. It's in that way, the FA it's unthinkable to me.

@@ -13,7 +13,7 @@ permalink: /episodes/15
 ## Summaries
 
 - [Summary by the Bevry Community](https://discuss.bevry.me/t/ep-15-awakening-from-the-meaning-crisis-marcus-aurelius-and-jesus/884/2)
-- [Summary by 
+
 
 
 
@@ -25,21 +25,25 @@ Socrates, Epicurean, axial revolution, Plato, parasitic processing, hellenistic 
 
 ## Transcript
 
-Welcome back to awakening, from the meaning crisis. So last time, we finished up our look at what was going on and, Buddhism, and then we moved back to. The West, we started to take a look at what was coming after the actual revolution. And we saw that Aristotle's disciple Alexander ushered in a period of, turmoil and cultural anxiety, a period where many people were expecting or were experiencing Dom aside a very wide, Wide manner, a deep and profound sense of loss of home, not having a house or a dwelling, but that connectedness, that rootedness to one's culture, one's place, one's history, one's language group, one's religion, one's community, et cetera.
+Welcome back to awakening, from the meaning crisis. So last time, we finished up our look at what was going on and, Buddhism, and then we moved back to. The West, we started to take a look at what was coming after the Axial revolution. And we saw that Aristotle's disciple Alexander ushered in a period of, turmoil and cultural anxiety, a period where many people were expecting or were experiencing domicide - a very wide, wide manner, a deep and profound sense of loss of home, not having a house or a dwelling, but that connectedness, that rootedness to one's culture, one's place, one's history, one's language group, one's religion, one's community, et cetera.
+
 And we saw that what happens is a change in the cultivation of wisdom. Notice again, the deep connection between the cultivation of wisdom. And the attempt to deal with enhancement of meaning or the response to a meaning crisis. What happens is a change in the notion of wisdom. And that wisdom now takes on a therapeutic dimension in which the philosopher is the physician of the soul and has to learn to hear anxiety.
 
-And then we learned. How the Epicureans responded to this, how they diagnosed the problem, like a physician and prescribed a response. They are, they diagnosed the anxiety of the period of the Hellenistic homicide as being caused by an anxiety about one's own mortality. We took a look at that. And we took a look at how they responded to that.
+And then we learned. How the Epicureans responded to this, how they diagnosed the problem, like a physician and prescribed a response. They are, they diagnosed the anxiety of the period of the Hellenistic domicide as being caused by an anxiety about one's own mortality. We took a look at that. And we took a look at how they responded to that.
+
 They advocated giving up. I would argue the quixotic attempt to achieve immortality and instead trying to come to an acceptance, a lived acceptance of one's mortality. And they did that by getting you to realize by slowly getting to you to realize. Getting clear about your nebulous anxiety that it's not about.
+
 Non-existence, it's not about experiencing total loss. It's about experiencing partial loss. And then there's a remedy to experiencing partial loss, which is to right. Set yourself upon those things that are actually constitutive of meaning. Full happiness and then realizing deeply realizing and structuring your lives so that you will have those up until the moment of your death, which is philosophically informed friendship, meaningful relationships, and which we are afforded the cultivation of wisdom.
 And self-transcendence.
 
 No. Well, I think mortality salients is definitely a part of the Hellenistic crisis. I don't think the Epicureans have a comprehensive understanding and to get a more comprehensive understanding of diagnosis. We turn to the Stoics, but in order to understand the Stoics, we have to understand the group that they developed out of.
+
 Those were the cynics and the cynics were not as impressed by Socrates's argumentation. As Plato was, they were much more impressed by Socrates capacity for confrontation and provocatively inducing aporia and people. And they started to practice this and in doing so, they started to force people to realize the distinction between moral codes and purity codes and to thereby.
 
 Pay more careful attention to what they're actually setting their hearts upon so that their hearts would not be broken by being set on manmade impermanent, cultural systems and values. Xeno Sinek was deeply impressed by this, but he was also impressed by Plato's argumentation. He wanted to integrate the two together.
-And he also had the fundamental insight that although particular cultures and historical, institutions are contingent being social is not, we are inherently social in the depths of our humanity. So leaving the Polis was not actually an option according to Xeno. Instead, what we have to do is realize that our issue isn't white, we're setting our hearts upon, but how.
+And he also had the fundamental insight that although particular cultures and historical, institutions are contingent being social is not, we are inherently social in the depths of our humanity. So leaving the Polis was not actually an option according to Zeno. Instead, what we have to do is realize that our issue isn't white, we're setting our hearts upon, but how.
 
-We're setting our hearts pay more, much more attention to the process than the product. So you can see how the store X are even picking up on something that's implicit in the Epicureans, the Epicureans aren't trying to change the world and eradicate death by bringing about and mortality. The Epicureans are trying to get you to reframe how the insight.
+We're setting our hearts pay more, much more attention to the process than the product. So you can see how the stoics are even picking up on something that's implicit in the Epicureans, the Epicureans aren't trying to change the world and eradicate death by bringing about and mortality. The Epicureans are trying to get you to reframe  the insight.
 
 Not just an intellectual insight, but an existential insight that changes the meaning of your mortality. And this was the core of the stoic insight pay attention to how that existential meaning is being made, pay attention to how that process of co identification, the way we're assuming. And I said, assigning identities is occurring because that's where yourself and your identity and your agency are being forged.
 
@@ -52,6 +56,7 @@ Now, obviously we're always paying attention. So that's useful, useless advice. 
 Let's stop here. Stop here. This is the core I would argue of all of our current psychotherapies that are cognitive psychotherapies. Learning to distinguish between the event and the meaning you give the event because this is happening. This is like when I talked before about your glasses, they're normally transparent because we almost always unconsciously framing events, the meaning and the event are fused together.
 
 But here's the issue. They're not identical events are events. The meaning is the co identification process that is taking place in response to the event. That could be a process of parasitic processing. That's not intrinsic to the events at all. In fact, the meeting isn't part of the event at all.
+
 And this is important because if you keep them fused, you will be confused if the meeting and the event are fused, the only way you can alter the meaning is by altering the event. Okay. The problem with that is sometimes you can, but here's the thing, here's the thing that the Stoics are doing it. This is very much like what the Buddha was doing with trying to make you realize how threatened you are.
 
 You do not have as much control as you think you do a picture test. One of the great stoic philosophers starts his manual for living basically his instruction manual of how to try and live. I stomach life would say, you know, the core of wisdom, the core of wisdom is knowing what's in your control and what's not in your control and stop pretending that things are in your control.
@@ -62,14 +67,14 @@ Yeah, access essentially confused.
 How can such a confusion occur to us? We've already talked about this. I mentioned Eric from when we talked about the being and the having mode. I mentioned that that time and we would come back to it. That from was directly influenced by the Stoics. It's the store X who got us right. To realize. Right to use from me in language, the distinction between the having mode and the being mode, the having mode is met by controlling things. And there are some things we literally have to control water, food, air shelter.
 But most of our more, most pertinent needs are not meet needs that are met by exercising control. They are needs that are mapped by enhancing meaning we have to become luck. The being mode is Matt. By developing the agent arena relationship by becoming mature, which isn't just something that happens inside of me.
 
-Luck when I become mature. It isn't just that I'm changed inside. I also inhabit a different arena and we recognize that socially. That's why we don't let little kids get married or drive cars or own guns. They're not allowed to move in a certain arena. Maturity is a agent arena relationship. It has a particular existential meaning, but if you do not know how to separate the meaning from the events, you're liable to be very seriously.
+Look when I become mature. It isn't just that I'm changed inside. I also inhabit a different arena and we recognize that socially. That's why we don't let little kids get married or drive cars or own guns. They're not allowed to move in a certain arena. Maturity is a agent arena relationship. It has a particular existential meaning, but if you do not know how to separate the meaning from the events, you're liable to be very seriously.
 
-Motorly confused such that you pursue maturity by trying to have a car. You pursue being in loud by having sex and controlling and manipulating, but it doesn't work because you really can't exercise as much control over the world as you need in order to stabilize the meeting. Do you see how this is?
+Modally confused such that you pursue maturity by trying to have a car. You pursue being in loud by having sex and controlling and manipulating, but it doesn't work because you really can't exercise as much control over the world as you need in order to stabilize the meeting. Do you see how this is?
 Like the cynics still? All right. You're trying to control a world that largely is beyond your control. You're setting your hearts on things. And your heart's going to be broken, but it's not just about manmade. Anything, anything can fall prey to this. You have to practice bringing into your awareness in a way that is transformative and developmental.
 
 The distinction between events. And the meaning of events and realizing this, you often act as if you have no control over the meaning because you're ignorant and of the processes, and it's transparent to you. And you focus on trying to control the event, which you often often have much less control than you realize. This is what you should do. Pull the two apart the meaning and the event and recalibrate your sense of control and identity, because you have actually way more control over this than you realize or practice, and you have way less control over this than you realize or practice.
 
-That's why the court of wisdom is knowing what's right. In our control versus what's not in our control. So how do you practice that and how does your identity change as you do? Well, the practice is Procheiron.
+That's why the core of wisdom is knowing what's right. In our control versus what's not in our control. So how do you practice that and how does your identity change as you do? Well, the practice is Procheiron.
 
 This means sort of ready to hand. It means remembering, but in the sense of Sati. Like mindfulness. It means remembering in a way that brings things, brings skills and sensitivities and sensibilities to bear in an appropriate and effective manner. It means remembering in emotionally existential sense. So you practice a bunch of psycho technologies to try and get them so internalized.
 
@@ -87,6 +92,7 @@ He learns how to be happy, even in a palace because he does not want to shirk hi
 And you go, Ooh, that's kind of like the ironies in the marketplace. It's well, what's he doing there? What's he doing? And why is he doing it? He's married. He's has children, so he's not approved. Right? In fact, he loved his wife quite, quite deeply.
 
 What's he doing? He's trying to get you to realize that the event of Sachs. As distinct from all of the meaning we pour into it. Your dad is friction in between some patches of skin and the production of a sticky fluid, but we pour all of this into it. And there's all of this meaning. And he's not saying that meaning's wrong.
+
 That's not the point anymore than the being mode is good. And the having mode is bad. He's not saying that he's getting you to, he's getting himself to realize, to enact weight. There's a difference between the event and all of this, meaning that I'm identifying with all of this rule, all of this rules, I'm assuming all of the rules I'm assigning.
 The solar X would recommend get a cup that you're really attached to a cup. You really like start using it on a daily basis so that you really like it until it becomes very familiar and then smash it
 

@@ -8,16 +8,18 @@ permalink: /episodes/1
 
 # Episode 1 - Introduction
 
-[![](http://img.youtube.com/vi/54l8_ewcOlY/0.jpg)](http://www.youtube.com/watch?v=54l8_ewcOlY)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/54l8_ewcOlY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Summaries
 
 - [Summary by Kaue Silveira](https://kaue.me/meaning/awareness/john-vervaeke-awakening-from-the-meaning-crisis-episode-1-introduction-summary/)
 - [Summary by Mark Mulvey](https://medium.com/@markmulvey/awakening-from-the-meaning-crisis-by-john-vervaeke-ep-1-summary-notes-ccfb6a0ebf46)
+- [Summary by the Bevry Community](https://discuss.bevry.me/t/2019-06-08-awakening-from-the-meaning-crisis-1/823)
 
-## Discussions
+## Key Ideas
 
-- [Discussion by the Bevry Community](https://discuss.bevry.me/t/2019-06-08-awakening-from-the-meaning-crisis-1/823)
+- To generate new insights, we need to break through the way we frame things. This is illustrated by the [nine dot problem](https://en.wikipedia.org/wiki/Thinking_outside_the_box).
+- Every human is a "natural-born cyborg" since tools become a part of ourselves. Eventually, we are able to look through them instead of at them. This is also true of psychotechnologies like literacy and mindfulness.
 
 
 ## Transcript

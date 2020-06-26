@@ -14,5 +14,9 @@ But what I've tried to show you is that these are not three separate things. The
 >
 >Imagine if I could offer this to you and make it deeply historically, scientifically and intellectually viable for you? What if I could offer to you a worldview that had the deepest scientific legitimacy? Totally integrated with the most profound spirituality, no antagonism, no irrationality in it, could join seamlessly with a personal project of therapy of therapeutic change and healing ,and sappy essential education, the cultivation of genuine wisdom and true self and self transcendence. In community with yourself, your world, your culture, and other people. Would you not want this? 
 >
->So here's the question now have to ask yourself why don't you have it? Because we know from the science, that's what you want. We know from the history that that's what our  foundational culture from the axial revolution built for us. Why don't we have it?"
+>Is it irredeemably lost when we lost the Gnostic mythology. When we lost the axial mythology, the two worlds of mythology. When we lost the mythology of Christianity, are we now bereft forever?
+>
+>So here's the question now have to ask yourself why don't you have it? Because we know from the science, that's what you want. We know from the history that that's what our  foundational culture from the axial revolution built for us. Why don't we have it?
+>
+>So the short answer for a long series of arguments that are forthcoming is no, I think there is a response. That's why this series is entitled awakening from the meeting crisis, not despairing because of the meaning crisis." (from [Episode 19](/episodes/19))
 

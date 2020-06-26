@@ -19,8 +19,8 @@ permalink: /episodes/6
 
 ## Key Ideas
 
-- 
-
+- "Part of what makes your life meaningful is that you have cultivated a character that allows you to actualize your potential. Your purpose. Your capacity to overcome self-deception and to enhance your contact with reality. This is wisdom."
+- Most modern forms of self-improvement are vacuous because they have no depth.
 
 ## Transcript
 

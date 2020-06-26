@@ -18,8 +18,8 @@ permalink: /episodes/8
 
 ## Key Ideas
 
-- 
-
+- The key of Buddha's awakening was [sati](/sati) which means to remember the [being mode](/being-mode). 
+- Through practices of mindfulness it's possible to gain systematic insight that motivates and empowers people to radically transform themselves. These systematic insight allow us to overcome [modal confusion](/modal-confusion) and other existential dilemmas.
 
 ## Transcript
 

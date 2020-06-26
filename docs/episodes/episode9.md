@@ -18,7 +18,10 @@ permalink: /episodes/9
 
 ## Key Ideas
 
-- 
+- The key to having insights is flowing between scaling up and scaling down, between the [gestalt](/gestalt) and features.  We have to step back from the inappropriate framing (i.e. look at glasses rather than through them). But this is not enough since we also have to create a new new and more encompassing framing. This requires that we look through new frames rather than at them.
+- It is possible to get better at the process of scaling up and down through [meditation](/meditation) and [contemplative practices](contemplative-practices).
+- By optimizing into a specific dimension it's possible to have mystical experiences. A [pure consciousness event](/pure-consciousness-event) is a kind of [mystical experience](/mystical-experience) you can have when you scale down all the way.  [Resonant at-onement](resonant-at-onement) is a kind of mystical experience you can have when you scale down all the way.  
+- [Non-duality](/non-duality) is the state of optimally flowing between scaling up and down that leads to a comprehensive capacity for insight. Not insight into some specific problem but into the fundamental grammar of the [agent-arena relationship](/agent-arena-relationship). Non-duality allows you to get an insight into your existential modes of being.
 
 
 ## Transcript

@@ -19,8 +19,8 @@ permalink: /episodes/7
 
 ## Key Ideas
 
-- 
-
+- Essential to meaning is a proper [agent-arena relationship](/agent-arena-relationship). Without it, "you will be like the tennis player trying to play tennis in the football arena."
+- A further key aspect of meaning is having a [nomological order](/nomological-order). "To have a meaningful life is to have a life that is situated within a Nomological Order: an attuned world view that is reliably generating existential modes that are consonant with our best scientific understanding."
 
 ## Transcript
 

@@ -19,7 +19,8 @@ permalink: /episodes/2
 
 ## Key Ideas
 
-- 
+- Humans are able to pick up complex patterns subconsciously. We call this implicit learning.
+- The more flow you experience, the bigger the perceived meaning of your life. 
 
 
 ## Transcript

@@ -19,7 +19,8 @@ permalink: /episodes/5
 
 ## Key Ideas
 
-- 
+- Reason and spirituality are not opposed to each other here, but are inseparably bound together. This is illustrated by Plato's allegory of the cave which is a myth of [enlightenment](/enlightenment), of coming into the light. "Self-transformation and getting more in contact with the world are interconnected. It’s [participatory knowing](participatory-knowing). I have to change myself in order to see the world, and then the world changes, so I change myself, and the world discloses itself in a new way, and so on.". We call this ascent into reality [anagoge](/anagoge).
+- People have a deep desire to discover the truth, reality
 
 
 ## Transcript

@@ -19,7 +19,8 @@ permalink: /episodes/4
 
 ## Key Ideas
 
-- 
+- After the axial revolution, humans, as pioneered by Socrates and Plato become increasingly interested in the project of understanding how they operate. ("Know Thyself")
+- It's no longer just important to understand nature because this just gives truth without transformation. (“Truth without relevance.”) Instead, the focus becomes how we can become wise or overcome self-deception, or how to become a good person. 
 
 
 ## Transcript

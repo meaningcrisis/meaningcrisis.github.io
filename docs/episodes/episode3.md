@@ -19,7 +19,12 @@ permalink: /episodes/3
 
 ## Key Ideas
 
-- 
+- The great disembedding happened in the axial revolution between: the every day world and the real world.
+- Wisdom is knowing how to make the transformative leap of self-transcendence from the every day world to the real world.
+- New psychotechnologies like rational reflection and mathematics give us access to abstract patterns that we are not directly aware of. 
+
+
+
 
 
 ## Transcript

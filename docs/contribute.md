@@ -8,7 +8,7 @@ There are still many things that could be done to make Awakening from the Meanin
 
 Everyone is free to contribute. If you're interested, send a short email to [jakob@awakeningfromthemeaningcrisis.com](mailto:jakob@awakeningfromthemeaningcrisis.com).
 
-The table below shows the current status for all lectures. 
+The table below shows the current status for all lectures and thus gives an overview of what still needs to be done.
 
 
 | Episode Number  | Automated Transcription | Corrected Transcription |

@@ -5,9 +5,12 @@ nav_order: 97
 ---
 
 
-| head1        | head two          | three |
+| Episode Number  | Automated Transcription | Corrected Transcription |
 |:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
+| 1 | ✓ | ✓  |
+| 2 | ✓ | ✓  |
+| 3 | ✓ | ✓  |
+| 4 | ✓ | ✓  |
+| 5 | ✓ | ✓  |
+
+

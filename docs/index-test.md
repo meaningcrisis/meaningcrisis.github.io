@@ -15,7 +15,7 @@ Awakening from the Meaning Crisis is a lecture series by John Vaervaeke.
 >
 >Is it irredeemably lost when we lost the Gnostic mythology. When we lost the axial mythology, the two worlds of mythology. When we lost the mythology of Christianity, are we now bereft forever?
 >
->So here's the question now have to ask yourself why don't you have it? Because we know from the science, that's what you want. We know from the history that that's what our  foundational culture from the axial revolution built for us. Why don't we have it?
+>So the short answer for a long series of arguments that are forthcoming is no, I think there is a response. That's why this series is entitled awakening from the meeting crisis, not despairing because of the meaning crisis.
 >
->So the short answer for a long series of arguments that are forthcoming is no, I think there is a response. That's why this series is entitled awakening from the meeting crisis, not despairing because of the meaning crisis." (from [Episode 19](/episodes/19))
+>So here's the question you now have to ask yourself: why don't you have it? Because we know from the science, that's what you want. We know from the history that that's what our foundational culture from the axial revolution built for us. Why don't we have it?" (from [Episode 19](/episodes/19))
 

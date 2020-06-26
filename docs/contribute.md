@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Community
-nav_order: 98
+title: Contribute
+nav_order: 97
 ---
 
 

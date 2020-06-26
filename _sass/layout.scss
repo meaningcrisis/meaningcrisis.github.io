@@ -126,14 +126,13 @@
 
 .site-header {
   display: flex;
-  min-height: $header-height;
+  min-height: 150px;
   align-items: center;
 
   @include mq(md) {
     z-index: 101;
     height: $header-height;
     max-height: $header-height;
-    border-bottom: $border $border-color;
   }
 }
 

@@ -4,9 +4,11 @@ title: Contribute
 nav_order: 97
 ---
 
-There are still many things that could be done to make Awakening from the Meaning Crisis easier accessible. The most important puzzle piece is arguably producing high quality transcriptions of each lecture. Another important component is to add glossary entries that are currently missing. 
+There are still many things that could be done to make Awakening from the Meaning Crisis easier accessible. The most important puzzle piece is arguably the production of high quality transcriptions of each lecture. Another important component is to add glossary entries that are currently missing. 
 
-Everyone is free to contribute. If you're interested, send an email to [jakob@awakeningfromthemeaningcrisis.com](mailto:jakob@awakeningfromthemeaningcrisis.com)
+Everyone is free to contribute. If you're interested, send a short email to [jakob@awakeningfromthemeaningcrisis.com](mailto:jakob@awakeningfromthemeaningcrisis.com).
+
+The table below shows the current status for all lectures. 
 
 
 | Episode Number  | Automated Transcription | Corrected Transcription |

@@ -126,7 +126,7 @@
 
 .site-header {
   display: flex;
-  min-height: 150px;
+  min-height: 180px;
   align-items: center;
 
   @include mq(md) {
@@ -145,6 +145,8 @@
   padding-top: $sp-3;
   padding-bottom: $sp-3;
   color: #7253ed!important;
+  font-size: 36px!important;
+
   @include fs-6;
 
   @include mq(md) {

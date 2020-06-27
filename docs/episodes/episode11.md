@@ -23,6 +23,12 @@ permalink: /episodes/11
 - Andrew Newberg and Mark Robert Waldman - How Enlightenment Changes Your Brain: The New Science of Transformation
 - Elaine Scarry - On Beauty and Being Just
 
+## Key Ideas
+
+- [Higher states of consciousness](/higher-states-of-consciousness) guide life changing transformations and are often preceded by [Disruptive Strategies](/disruptive-strategies).
+- "What’s happening in a higher state of consciousness is that people are flowing in their capacity to cognitively, perceptually, and even with the very machinery of their self get an optimal grip on both The World and The Self."
+- To grow and mature, we need to become aware of systematic errors in our thinking and see through illusions. "As the adult is to the child the sage is to the adult."  
+
 
 ## Transcript
 

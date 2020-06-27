@@ -24,6 +24,11 @@ permalink: /episodes/13
 - Stephen Batchelor – After Buddhism: Rethinking the Dharma for a Secular Age
 - Marc Lewis – Memoirs of an Addicted Brain
 
+## Key Ideas 
+
+- "The very processes that make you adaptively intelligent also make you vulnerable to self-destructive behaviour." ([Parasitic processing](/parasitic-processing))
+- Buddha’s Four Noble Truths should be understood as ‘provocations’ rather than dogmas.  "All is Suffering" ([dukkha](/dukkha) should be interpreted as "Realize that all your life is threatened with a loss of freedom, a loss of agency".
+
 
 ## Transcript
 

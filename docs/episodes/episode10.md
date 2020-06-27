@@ -29,8 +29,8 @@ permalink: /episodes/10
 
 ## Key Ideas
 
-- Consciousness creates a salience landscape for us. 
-- The salience landscape gets you in contact then you start the optimal gripping and the optimal gripping gets you into the creation of affordances where basically the agent and the arena are being co-identified. I’m a grasper and this is graspable. I am presenting myself to it and it is presenting itself to me.
+- Consciousness creates a salience landscape. 
+- "The salience landscape gets you in contact then you start the optimal gripping and the optimal gripping gets you into the creation of affordances where basically the agent and the arena are being co-identified. I’m a grasper and this is graspable. I am presenting myself to it and it is presenting itself to me.""
 - Getting wiser means training the way you create a salience landscape in a way that makes sure zero in on the relative information in the relevant way. Changes of your salience landscape do not result in a gain of knowledge but a gain in [wisdom](/wisdom). Changes allow us to see through illusions. 
 - Higher states of consciousness do not provide new knowledge but wisdom through the way they modify the salience landscape.
 

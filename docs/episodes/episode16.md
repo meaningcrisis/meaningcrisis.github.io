@@ -16,6 +16,11 @@ permalink: /episodes/16
 - [Summary by the Bevry Community](https://discuss.bevry.me/t/ep-16-awakening-from-the-meaning-crisis-christianity-and-agape/887)
 - [Summary by Andrew Sweeny](https://medium.com/@andrewpgsweeny/christ-and-gnosis-15ea82428f75)
 
+## Key Ideas
+
+- "All [agapic love](/agape) is [fore-giving love](/forgiveness), because it is giving before the person that is receiving it can in any way be said to have earned it".
+- Jesus "experiences himself as a kairos and he’s giving to people through agape, the possibility of experiencing their own personal kairos."
+- "The transition from an egoic worldview to an agapic one is what Jesus offered." "Jesus is the way in which we can experience the [kairos](/kairos) of [metanoia](/metanoia) (a radical turning), and become fore-giving individuals who are constantly forgiving agapically to others."
 
 
 ## Transcript

@@ -21,7 +21,9 @@ permalink: /episodes/14
 - Paul Tillich - The Courage to Be
 
 
+## Key Ideas 
 
+- "Alexander the Great ushered in a period of, turmoil and cultural anxiety, a period where many people were expecting or were experiencing [domicide](/domicide)". As a response to this development, philosophy takes on a therapeutic dimension as illustrated by the ideas of the Epicureans, Stoics, Cynics. Philosophers become doctors of the soul.   
 
 
 ## Transcript

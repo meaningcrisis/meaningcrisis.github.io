@@ -16,6 +16,12 @@ permalink: /episodes/12
 - [Summary by the Bevry Community](https://discuss.bevry.me/t/ep-12-awakening-from-the-meaning-crisis-higher-states-of-consciousness-part-2/866)
 - [Summary by Andrew Sweeny](https://medium.com/@andrewpgsweeny/higher-states-of-consciousness-9882876d2a5d)
 
+## Key Ideas
+
+- [Wisdom](/wisdom) should be cultivated in the context of a tradition and a community.
+- Love is mutually accelerating disclosure. "Two people are mutually disclosing from each other in a coupled fashion. I honestly disclose something about myself, and then you disclose in response. We get a reciprocal, enhanced, mutual conforming, which engenders love. You know love by participating in it, like your culture and your language."
+- "In higher states of consciousness the brain is optimizing for processing, finding a nexus of systematic error for a personal development, complexification of processing and new emergent functions. [...] This isn’t about propositional knowing, this is about participatory transformation. "
+
 
 ## Transcript
 

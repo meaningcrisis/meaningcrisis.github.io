@@ -23,8 +23,10 @@ permalink: /episodes/15
 - Pierre Hadot - Philosophy as a Way of Life: Spiritual Exercises from Socrates to Foucault
 - Margaret Visser – Beyond Fate
 
+## Key Ideas
 
-
+- Stoics like Marcus Aurelius and Epictetus develop new psychotechnologies like [Procheiron](/procheiron) and [Premeditatio](/premeditatio) that aim to remind them that there is a difference between the existential, modal meaning of an event, and the event itself. 
+- Jesus is a personified [kairos](/kairos) and emphasized a different form of love called [agape](/agape). Like the love of a parent that transforms a child and turns it into a person, the love of god that flows through you towards other people can make you wiser. ("As the adult is to the child the sage is to the adult.") The idea is then that if you internalize Jesus analogous to how you can internalize Socrates (i.e. starting critical dialogues with yourself), kairos can take place in you, i.e. a radical shift in your salience landscape ("consciousness"). 
 
 ## Transcript
 

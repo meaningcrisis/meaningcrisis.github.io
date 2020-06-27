@@ -23,6 +23,10 @@ permalink: /episodes/17
 - Iris Murdoch – The Sovereignty of Good
 - L. A. Paul – Transformative Experience
 
+## Key Ideas
+
+- 
+
 
 ## Transcript
 

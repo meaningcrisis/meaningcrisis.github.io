@@ -17,7 +17,7 @@ Everyone is free to contribute. If you're interested, send a short email to [jak
 The table below shows the current status for all lectures and thus gives an overview of what still needs to be done.
 
 
-| Episode Number  | Automated Transcription | Corrected Transcription |Diagrams|Subheadings|
+|  Number  | Automated Transcription | Corrected Transcription |Diagrams|Subheadings|
 |:-------------|:------------------|:------|:------|
 | 1 | ✓ | ✓  |  |  |
 | 2 | ✓ | ✓  |  |  |

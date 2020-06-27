@@ -4,7 +4,7 @@ title: Contribute
 nav_order: 97
 ---
 
-You can support John Vervaeke's work on [Patreon](https://www.patreon.com/johnvervaeke).
+*You can support John Vervaeke's work on [Patreon](https://www.patreon.com/johnvervaeke).*
 
 In addition, there are still many things that could be done to make Awakening from the Meaning Crisis easier accessible and more widely known. 
 
@@ -12,12 +12,12 @@ The most important puzzle piece is arguably the production of high quality trans
 
 Another important component is to add glossary entries that are currently missing. This helps to avoid that people get lost in their journey through the 50 lectures.
 
-Everyone is free to contribute. If you're interested, send a short email to [jakobberg90@gmail.com](mailto:jakobberg90@gmail.com).
+*Everyone can contribute to improve this site. If you're interested, send a short email to [jakobberg90@gmail.com](mailto:jakobberg90@gmail.com).*
 
 The table below shows the current status for all lectures and thus gives an overview of what still needs to be done.
 
 
-|  Number  | Automated Transcription | Corrected Transcription |Diagrams|Subheadings|
+|  Episode  | Automated Transcription | Corrected Transcription |Diagrams|Subheadings|
 |:-------------|:------------------|:------|:------|
 | 1 | ✓ | ✓  |  |  |
 | 2 | ✓ | ✓  |  |  |

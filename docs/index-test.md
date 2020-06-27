@@ -10,7 +10,7 @@ Awakening from the Meaning Crisis is a lecture series by John Vervaeke. This sit
 
 ## What is Awakening from the Meaning Crisis all about?
 
-"The Meaning Crisis is at the root of modern crises of mental health, the response to environmental collapse, and the political system. We are drowning in "meaninglessness". We feel disconnected from ourselves, each other, the world, and a viable future."
+>"The Meaning Crisis is at the root of modern crises of mental health, the response to environmental collapse, >and the political system. We are drowning in "meaninglessness". We feel disconnected from ourselves, each other, the world, and a viable future."
 
 Although the living standard of most people is nowadays much higher than ever before, the feeling that something important is missing is common. Phenomena like depression are widespread and many people struggle with existential angst. At the same time, ancient solutions of dealing with these issues like stoicism and mindfulness but also modern solutions like psychotherapy are becoming increasingly popular. While each of these frameworks offers psychotechnologies that have the potential to help this rearely happens because they're misrepresented and misunderstood.
 

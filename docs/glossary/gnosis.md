@@ -14,3 +14,5 @@ Gnosis means elevated ‘participatory knowing’, rather than any kind of super
 For examples, when we hear music, we sometimes feel one with the composer of that music. 
 
 Another example John Vervaeke describes is the feelings he had by reading Spinoza. While doing this he has moments beyond mere intellectual understanding, where he starts to ‘know’ the being and mind of Spinoza from the inside.
+
+"Many people are seeking Gnosis today. Gnosis is the kind of thing you need in order to bring about a release from the existential entrapment that we're finding in the meaning crisis.""

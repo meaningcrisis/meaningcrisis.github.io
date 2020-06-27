@@ -8,7 +8,7 @@ You can support John Vervaeke's work on [Patreon](https://www.patreon.com/johnve
 
 In addition, there are still many things that could be done to make Awakening from the Meaning Crisis easier accessible and more widely known. 
 
-The most important puzzle piece is arguably the production of high quality transcriptions of each lecture. These transcripts make it possible that John Vervaeke's lectures get found more often via Google and become accessible to people who don't like a video format. Ideally, all diagrams from the lectures are included in a digitized form. An example is shown in [Episode 9](/episodes/9).
+The most important puzzle piece is arguably the production of high quality transcriptions of each lecture. These transcripts make it possible that John Vervaeke's lectures get found more often via Google and become accessible to people who don't like a video format. Ideally, all diagrams from the lectures are included in a digitized form and subheadings are added to allow for easier navigation. An example diagram is shown in [Episode 9](/episodes/9).
 
 Another important component is to add glossary entries that are currently missing. This helps to avoid that people get lost in their journey through the 50 lectures.
 
@@ -17,55 +17,55 @@ Everyone is free to contribute. If you're interested, send a short email to [jak
 The table below shows the current status for all lectures and thus gives an overview of what still needs to be done.
 
 
-| Episode Number  | Automated Transcription | Corrected Transcription |Diagrams|
+| Episode Number  | Automated Transcription | Corrected Transcription |Diagrams|Subheadings|
 |:-------------|:------------------|:------|:------|
-| 1 | ✓ | ✓  |  |
-| 2 | ✓ | ✓  |  |
-| 3 | ✓ | ✓  |  |
-| 4 | ✓ | ✓  |  |
-| 5 | ✓ | ✓  |  |
-| 6 | ✓ | ✓  |  |
-| 7 | ✓ | ✓  |  |
-| 8 | ✓ | ✓  |  |
-| 9 | ✓ | ✓  | ✓ |
-| 10 | ✓ | ✓  |  |
-| 11 | ✓ | ✓  |  |
-| 12|  ✓ |  |  |
-| 14 |  ✓|  |  |
-| 15 |  ✓|  |  |
-| 16 |  ✓|  |  |
-| 17 |  ✓|  |  |
-| 18 |  ✓|  |  |
-| 19 |  ✓ | ✓  |  |
-| 20 | |  |  |
-| 21 | |  |  |
-| 22 | |  |  |
-| 23 | |  |  |
-| 24 | |  |  |
-| 25 | |  |  |
-| 26 | |  |  |
-| 27 | |  |  |
-| 28 | |  |  |
-| 29 | |  |  |
-| 30 | |  |  |
-| 31 | |  |  |
-| 32 | |  |  |
-| 33 | |  |  |
-| 34 | |  |  |
-| 35 | |  |  |
-| 36 | |  |  |
-| 37| |  |  |
-| 38 | |  |  |
-| 39| |  |  |
-| 40 | |  |  |
-| 41| |  |  |
-| 42| |  |  |
-| 43 | |  |  |
-| 44 | |  |  |
-| 45| |  |  |
-| 46 | |  |  |
-| 47 | |  |  |
-| 48| |  |  |
-| 49 | |  |  |
-| 50 | |  |  |
+| 1 | ✓ | ✓  |  |  |
+| 2 | ✓ | ✓  |  |  |
+| 3 | ✓ | ✓  |  |  |
+| 4 | ✓ | ✓  |  |  |
+| 5 | ✓ | ✓  |  |  |
+| 6 | ✓ | ✓  |  |  |
+| 7 | ✓ | ✓  |  |  |
+| 8 | ✓ | ✓  |  |  |
+| 9 | ✓ | ✓  | ✓ |  |
+| 10 | ✓ | ✓  |  |  |
+| 11 | ✓ | ✓  |  |  |
+| 12|  ✓ |  |  |  |
+| 14 |  ✓|  |  |  |
+| 15 |  ✓|  |  |  |
+| 16 |  ✓|  |  |  |
+| 17 |  ✓|  |  |  |
+| 18 |  ✓|  |  |  |
+| 19 |  ✓ | ✓  |  |  |
+| 20 | |  |  |  |
+| 21 | |  |  |  |
+| 22 | |  |  |  |
+| 23 | |  |  |  |
+| 24 | |  |  |  |
+| 25 | |  |  |  |
+| 26 | |  |  |  |
+| 27 | |  |  |  |
+| 28 | |  |  |  |
+| 29 | |  |  |  |
+| 30 | |  |  |  |
+| 31 | |  |  |  |
+| 32 | |  |  |  |
+| 33 | |  |  |  |
+| 34 | |  |  |  |
+| 35 | |  |  |  |
+| 36 | |  |  |  |
+| 37| |  |  |  |
+| 38 | |  |  |  |
+| 39| |  |  |  |
+| 40 | |  |  |  |
+| 41| |  |  |  |
+| 42| |  |  |  |
+| 43 | |  |  |  |
+| 44 | |  |  |  |
+| 45| |  |  |  |
+| 46 | |  |  |  |
+| 47 | |  |  |  |
+| 48| |  |  |  |
+| 49 | |  |  |  |
+| 50 | |  |  |  |
 

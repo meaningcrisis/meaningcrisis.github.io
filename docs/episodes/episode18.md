@@ -28,6 +28,12 @@ permalink: /episodes/18
 - Eric Perl – Thinking Being: Introduction to Metaphysics in the Classical Tradition
 - Paul Tillich – The Courage to Be
 
+## Key Ideas
+
+-  Plotinus presents a grand unified theory of ancient spirituality. He integrates Plato's spirituality and the idea of [anagoge](/anagoge), Aristotle’s theory of knowing and of the structure of the world, and from the Stoics the whole therapeutic project of overcoming [modal confusion](/modal-confusion).
+- Plotinus proposes that the more "one" something is, the more real it becomes. "As we try and find the deeper underlying principles that integrate things together, we become more integrated together and we become more real." 
+- For Aristotle living beings are more in-formed because their form has agency. Humans are even more in-formed because they are self-moving in their thoughts. Plotinus integrates this idea by proposing that this marks a journey to self-transcendence and realization that is driven by the desire to deepen one’s connection with reality. This is Plato's idea of anagoge and the stoic idea of self-improvement that culminates in [Gnosis](/gnosis). And "you can only have Gnosis of the one by being one."
+
 
 ## Transcript
 

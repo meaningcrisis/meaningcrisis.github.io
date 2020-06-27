@@ -25,7 +25,11 @@ permalink: /episodes/17
 
 ## Key Ideas
 
-- 
+- The Gnostic movement takes the [axial revolution](/axial-revolution) to its culmination. "It's the axial revolution that is finally applied to even to the whole mythological framework of the ancient world." 
+- The Gnostics see gods (espcially the god of the old testament) as the guards of our prison. Hence, the goal is not to worship them but to transcend them. "The core of spirituality is self-transcendence healing and freeing people from existential entrapment."
+- "For Gnostics the important thing was not to believe in Jesus, but as much as possible to become like Jesus to go through radical transformation that allows them to be one with God." This goal is commonly called [gnosis](/gnosis).
+- "Gnosis is the kind of thing you need in order to bring about a release from the existential entrapment that we're finding in the meaning crisis." Hence, we should "liberate the gnosis within gnosticism".
+- "Real gnosis is beyond personification or gender - it has no ideology or cult - it cannot be described but is closer to us than our very breath. Real gnonsis reveals a spark of a non-theistic spirituality - a direct knowing of the divine."
 
 
 ## Transcript

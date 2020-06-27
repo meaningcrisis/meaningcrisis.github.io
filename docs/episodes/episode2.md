@@ -17,6 +17,21 @@ permalink: /episodes/2
 - [Summary by Mark Mulvey](https://medium.com/@markmulvey/awakening-from-the-meaning-crisis-by-john-vervaeke-ep-2-summary-notes-f1f646c61a9f)
 - [Summary by the Bevry Community](https://discuss.bevry.me/t/ep-2-awakening-from-the-meaning-crises-flow-metaphor-and-the-axial-revolution/825)
 
+## Main Sources
+
+- Karen Armstrong - The Great Transformation: The Beginning of Our Religious Traditions
+- Robert Bellah and Hans Joas (Editors) – The Axial Age and its Consequences
+- Eric Cline - 1177 B.C.: The Year Civilization Collapsed
+- Mihaly Csikszentmihalyi - Flow: The Psychology of Optimal Experience
+- The Dhammapada
+- Robert Drews - The End of the Bronze Age: Changes in Warfare and the Catastrophe ca. 1200 B.C.
+- Robin Hogarth – Educating Intuition
+- Karl Jaspers - The Origin and Goal of Hist
+- George Lakoff and Mark Johnson - Metaphors We Live By
+- Steven Pinker - The Better Angels of Our Nature: Why Violence Has Declined
+- Arthur Reber - Implicit Learning and Tacit Knowledge: An Essay on the Cognitive Unconscious
+- Joseph Schear (Editor) - Mind, Reason, and Being-in-the-World: The McDowell-Dreyfus Debate
+
 ## Key Ideas
 
 - Humans are able to pick up complex patterns subconsciously. We call this implicit learning.

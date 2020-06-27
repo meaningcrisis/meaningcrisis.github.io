@@ -17,6 +17,12 @@ permalink: /episodes/5
 - [Summary by Mark Mulvey](https://medium.com/@markmulvey/awakening-from-the-meaning-crisis-by-john-vervaeke-ep-5-summary-notes-9f18fbde3b70)
 - [Summary by the Bevry Community](https://discuss.bevry.me/t/ep-5-awakening-from-the-meaning-crisis-plato-and-the-cave/834)
 
+## Main Sources
+
+- George Ainslie - Breakdown of Will
+- Arthur Versluis - Platonic Mysticism: Contemplative Science, Philosophy, Literature, and Art
+
+
 ## Key Ideas
 
 - Reason and spirituality are not opposed to each other here, but are inseparably bound together. This is illustrated by Plato's allegory of the cave which is a myth of [enlightenment](/enlightenment), of coming into the light. "Self-transformation and getting more in contact with the world are interconnected. It’s [participatory knowing](participatory-knowing). I have to change myself in order to see the world, and then the world changes, so I change myself, and the world discloses itself in a new way, and so on.". We call this ascent into reality [anagoge](/anagoge).

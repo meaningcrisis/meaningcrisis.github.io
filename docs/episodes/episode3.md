@@ -17,6 +17,12 @@ permalink: /episodes/3
 - [Summary by Mark Mulvey](https://medium.com/@markmulvey/awakening-from-the-meaning-crisis-by-john-vervaeke-ep-3-summary-notes-83012f728de9)
 - [Summary by the Bevry Community](https://discuss.bevry.me/t/ep-3-awakening-from-the-meaning-crisis-continuous-cosmos-and-modern-world-grammar/829)
 
+## Main Sources
+
+- Carl Jung – Man and His Symbols
+- Friedrich Nietzsche – Twilight of Idols and Anti-Christ
+- Paul Tillich – Systematic Theology
+
 ## Key Ideas
 
 - The great disembedding happened in the axial revolution between: the every day world and the real world.

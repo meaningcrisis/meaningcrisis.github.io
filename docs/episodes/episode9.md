@@ -16,6 +16,16 @@ permalink: /episodes/9
 - [Summary by Kaue Silveira](https://kaue.me/meaning/awareness/john-vervaeke-awakening-from-the-meaning-crisis-episode-9-insight-summary/)
 - [Summary by the Bevry Community](https://discuss.bevry.me/t/ep-9-awakening-from-the-meaning-crisis-insight/858)
 
+## Main Sources
+
+- Robert Forman – The Problem of Pure Consciousness: Mysticism and Philosophy
+- Aldous Huxley – The Perennial Philosophy 
+- William Miller and Janet C’de Baca – Quantum Change: When Epiphanies and Sudden Insights Transform Ordinary Lives
+- Michael Polanyi – Knowing and Being
+- Michael Polanyi – The Tacit Dimension
+- Sebastian Watzl – Structuring Mind: The Nature of Attention and how it Shapes Consciousness
+- Wayne Wu - Attention
+
 ## Key Ideas
 
 - The key to having insights is flowing between scaling up and scaling down, between the [gestalt](/gestalt) and features.  We have to step back from the inappropriate framing (i.e. look at glasses rather than through them). But this is not enough since we also have to create a new new and more encompassing framing. This requires that we look through new frames rather than at them.

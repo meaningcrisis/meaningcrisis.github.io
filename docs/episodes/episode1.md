@@ -17,6 +17,23 @@ permalink: /episodes/1
 - [Summary by Mark Mulvey](https://medium.com/@markmulvey/awakening-from-the-meaning-crisis-by-john-vervaeke-ep-1-summary-notes-ccfb6a0ebf46)
 - [Summary by the Bevry Community](https://discuss.bevry.me/t/2019-06-08-awakening-from-the-meaning-crisis-1/823)
 
+## Main Sources
+
+- Michael Anderson - After Phrenology: Neural Reuse and the Interactive Brain 
+- Barry Boyce (Editor) - The Mindfulness Revolution: Leading Psychologists, Scientists, Artists, and Meditation Teachers on the Power of Mindfulness in Daily Life 
+- Andy Clark - Natural-Born Cyborgs: Minds, Technologies, and the Future of Human Intelligence 
+- Michel Ferrari and Nic Weststrate (Editors) - The Scientific Study of Personal Wisdom: From Contemplative Traditions to Neuroscience
+- Harry Frankfurt – On Bullsh*t 
+- David Lewis-Williams - The Mind in the Cave: Consciousness and the Origins of Art 
+- L. A. Paul - Transformative Experience 
+- Massimo Pigliucci - How to Be a Stoic: Using Ancient Philosophy to Live a Modern Life 
+- Matt Rossano - Supernatural Selection: How Religion Evolved 
+- Daniel Siegel - Mindsight: The New Science of Personal Transformation
+- Steve Taylor - Waking From Sleep: Why Awakening Experiences Occur and How to Make Them Permanent 
+- John Vervaeke, Christopher Mastropietro, and Filip Miscevic - Zombies in Western Culture: A Twenty-First Century Crisis
+- Michael Winkelman - Shamanism: A Biopsychosocial Paradigm of Consciousness and Healing
+- Susan Wolf - Meaning in Life and Why It Matters
+
 ## Key Ideas
 
 - To generate new insights, we need to break through the way we frame things. This is illustrated by the [nine dot problem](https://en.wikipedia.org/wiki/Thinking_outside_the_box).

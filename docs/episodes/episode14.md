@@ -21,9 +21,7 @@ permalink: /episodes/14
 - Paul Tillich - The Courage to Be
 
 
-## Keywords
 
-Socrates, Epicurean, axial revolution, Plato, parasitic processing, hellenistic period, great disciples, anxiety, form of psychotherapy, loss of agency, kind of things, cognitive therapy, loss of home, hellenistic era, Greek culture, mortality, Aristotle, stoicism, everybody, people, many people, meaning crisis, honest man, great philosopher, current situation, current form, meaningful relationship, modern day, psycho technology, awakening experience
 
 
 ## Transcript

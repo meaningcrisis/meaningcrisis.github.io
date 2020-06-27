@@ -16,6 +16,15 @@ permalink: /episodes/8
 - [Summary by Kaue Silveira](https://kaue.me/meaning/awareness/john-vervaeke-awakening-from-the-meaning-crisis-episode-1-introduction-summary/)
 - [Summary by the Bevry Community](https://discuss.bevry.me/t/ep-8-awakening-from-the-meaning-crisis-the-buddha-and-mindfulness/850)
 
+## Main Sources
+
+- Stephen Batchelor – Alone with Others: An Existential Approach to Buddhism
+- Michael Eysenck – Cognitive Psychology: A Student’s Handbook
+- Ellen Langer – Mindfulness 
+- Christopher Mole – Attention is Cognitive Unison: An Essay in Philosophical Psychology
+- Amir Raz & Michael Lifshitz – Hypnosis and Meditation: Towards an Integrative Science of Conscious Planes
+- Susan Wolf – Meaning in Life and Why It Matters
+
 ## Key Ideas
 
 - The key of Buddha's awakening was [sati](/sati) which means to remember the [being mode](/being-mode). 

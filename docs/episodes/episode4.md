@@ -17,6 +17,11 @@ permalink: /episodes/4
 - [Summary by Mark Mulvey](https://medium.com/@markmulvey/awakening-from-the-meaning-crisis-by-john-vervaeke-ep-4-summary-notes-1d47770b240f)
 - [Summary by the Bevry Community](https://discuss.bevry.me/t/ep-4-awakening-from-the-meaning-crisis-socrates-and-the-quest-for-wisdom/832)
 
+## Main Sources
+
+- Harry Frankfurt - On Bullshit
+- Harry Frankfurt - The Reasons of Love
+
 ## Key Ideas
 
 - After the axial revolution, humans, as pioneered by Socrates and Plato become increasingly interested in the project of understanding how they operate. ("Know Thyself")

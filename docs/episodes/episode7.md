@@ -16,6 +16,15 @@ permalink: /episodes/7
 - [Summary by Kaue Silveira](https://kaue.me/meaning/awareness/john-vervaeke-awakening-from-the-meaning-crisis-episode-7-aristotle-s-world-view-and-erich-fromm-summary/)
 - [Summary by Mark Mulvey](https://medium.com/@markmulvey/awakening-from-the-meaning-crisis-by-john-vervaeke-ep-7-summary-notes-d6767cdd61dd)
 
+## Main Sources
+
+-  Marcus Aurelius – Meditations 
+-  Karen Armstrong – The Great Transformation: The Beginning of Our Religious Traditions
+-  R. G. Collingwood – The Principles of Art
+-  Erich Fromm – To Have or To Be?
+-  Clifford Geertz – The Interpretation of Cultures
+-  Eric D. Perl – Thinking Being: Introduction to Metaphysics in the Classical Tradition
+
 
 ## Key Ideas
 
@@ -85,7 +94,7 @@ So one of the things that’s really important to you is that your existential m
 
 So, notice what this has done. What Aristotle has done here that’s so powerful. He’s given us a way, a language of articulating a connection between what we often don’t see, a deep connection between, our projects of trying to intellectually understand the world and our existential projects of trying to feel like we fit in and belong in a meaningful fashion. That’s what’s so beautiful about Aristotle. He’s given an integrated account of both of these. And for many of us today we don’t find that clear, consonant connection. We have a scientific world view – a view of how things are, how we understand things given our science – but one of the most common complaints of that worldview is it gives us no existential guidance. It doesn’t tell us how to make our lives meaningful.
 
-I wanted to propose to you a term for talking about this set of things where you have a worldview that is demonstrating, on an ongoing reliable fashion, worldview attunement and so that it is constantly affording existential modes in which Agent: Arena relationships are unfolding and blossoming naturally so that the person is not experiencing absurdity. And so the person is constantly experiencing a deep connectedness between their intellectual projects of making sense of the world and their existential projects of finding meaning and belonging and fitedness (placement) within it. I’m going to call that a “Nomological Order”. Nomological Order comes from no “Nomos(*****)”, Law. This is what makes the universe law-like, not just in our current sense of scientific law but in the sense that it is a cosmos for us. It’s a cosmos in which there is deep convergence and consonance between our best attempts to scientifically explain the world and our deepest endeavours to existentially dwell within it. When we have that, when we have those two together, we have a Nomological Order. As the Nomological order breaks down, of course, then we start to confront absurdity and we start to lose a sense of how we fit in and how we belong.
+I wanted to propose to you a term for talking about this set of things where you have a worldview that is demonstrating, on an ongoing reliable fashion, worldview attunement and so that it is constantly affording existential modes in which Agent: Arena relationships are unfolding and blossoming naturally so that the person is not experiencing absurdity. And so the person is constantly experiencing a deep connectedness between their intellectual projects of making sense of the world and their existential projects of finding meaning and belonging and fitedness (placement) within it. I’m going to call that a “Nomological Order”. Nomological Order comes from "Nomos" which means law. This is what makes the universe law-like, not just in our current sense of scientific law but in the sense that it is a cosmos for us. It’s a cosmos in which there is deep convergence and consonance between our best attempts to scientifically explain the world and our deepest endeavours to existentially dwell within it. When we have that, when we have those two together, we have a Nomological Order. As the Nomological order breaks down, of course, then we start to confront absurdity and we start to lose a sense of how we fit in and how we belong.
 
 So, Part of what we can take from…/ part of how we can understand the Axial-Age heritage…./ part of the way we can understand what this is telling us about meaning, is this idea of a Nomological Order. To have a meaningful life is to have a life that is situated within a Nomological Order: an attuned world view that is reliably generating existential modes that are consonant with our best scientific understanding.
 

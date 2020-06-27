@@ -17,6 +17,12 @@ permalink: /episodes/6
 - [Summary by Mark Mulvey](https://medium.com/@markmulvey/awakening-from-the-meaning-crisis-by-john-vervaeke-ep-6-summary-notes-ad73481beba0)
 - [Summary by the Bevry Community](https://discuss.bevry.me/t/ep-6-awakening-from-the-meaning-crisis-aristotle-kant-and-evolution/837)
 
+## Main Sources
+
+- Alicia Juarrero - Dynamics in Action: Intentional Behavior as a Complex System
+- Eric Perl - Thinking Being: Introduction to Metaphysics in the Classical Tradition
+- Francisco Varela, Eleanor Rosch, and Evan Thompson - The Embodied Mind: Cognitive Science and Human Experience
+
 ## Key Ideas
 
 - "Part of what makes your life meaningful is that you have cultivated a character that allows you to actualize your potential. Your purpose. Your capacity to overcome self-deception and to enhance your contact with reality. This is wisdom."

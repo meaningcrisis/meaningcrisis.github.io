@@ -8,11 +8,11 @@ You can support John Vervaeke's work on [Patreon](https://www.patreon.com/johnve
 
 In addition, there are still many things that could be done to make Awakening from the Meaning Crisis easier accessible and more widely known. 
 
-The most important puzzle piece is arguably the production of high quality transcriptions of each lecture. These transcripts make it possible that John Vervaeke's lectures get found more often via Google and who don't like a video format.
+The most important puzzle piece is arguably the production of high quality transcriptions of each lecture. These transcripts make it possible that John Vervaeke's lectures get found more often via Google and become accessible to people who don't like a video format. Ideally, all diagrams from the lectures are included in a digitized form. An example is shown in [Episode 9](/episodes/9).
 
 Another important component is to add glossary entries that are currently missing. This helps to avoid that people get lost in their journey through the 50 lectures.
 
-Everyone is free to contribute. If you're interested, send a short email to [jakob@awakeningfromthemeaningcrisis.com](mailto:jakob@awakeningfromthemeaningcrisis.com).
+Everyone is free to contribute. If you're interested, send a short email to [jakobberg90@gmail.com](mailto:jakobberg90@gmail.com).
 
 The table below shows the current status for all lectures and thus gives an overview of what still needs to be done.
 

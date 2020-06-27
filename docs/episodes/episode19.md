@@ -10,6 +10,7 @@ permalink: /episodes/19
 # Episode 19 -  Augustine and Aquinas
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/mRh4lwtgfVE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ## Summaries
 
 - [Summary by the Bevry Community](https://discuss.bevry.me/t/ep-19-awakening-from-the-meaning-crisis-augustine-and-aquinas/891)
@@ -23,6 +24,14 @@ permalink: /episodes/19
 - Tom Cheetham - World Turned Inside Out: Henry Corbin and Islamic Mysticism
 - Tom Cheetham - Imaginal Love: The Meanings of Imagination in Henry Corbin and James Hillman
 - Marc Lewis - Memoirs of an Addicted Brain: A Neuroscientist Examines his Former Life on Drugs
+
+## Key Ideas
+
+- Meaning has three dimensions: 
+  - Sense of coherence ([nomological order](/nomological-order)). “The more coherent, the more intelligible, the more things fit together for you, the more real they are, the more meaningful you find your life.”
+  - Sense of significance (normative order). “How deep in reality, how good are the elements of your life?”
+  - Sense of purpose (narrative order). “Does your life have a direction? Is it moving in a course?”
+- As reading becomes more and more a silent activity, a different model of thought emerges. "What they give priority to is coherence within a language rather than transformation within themselves in the world." 
 
 
 ## Transcript

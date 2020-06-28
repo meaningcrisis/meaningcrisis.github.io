@@ -36,7 +36,7 @@
         top: 0; bottom: 0; left: 0;
         width: 15px;
         &:before {
-            background: black;
+            background: #7253ed;
             border: 3px solid transparent;
             border-radius: 100%;
             content: "";
@@ -62,7 +62,7 @@
     }
     .timeline-item:not(.period):hover .timeline-marker:before {
         background: transparent;
-        border: 3px solid black;
+        border: 3px solid #7253ed;
     }
 
     /*----- TIMELINE CONTENT -----*/
@@ -222,10 +222,10 @@
             .timeline-marker {
                 &:before {
                     background: transparent;
-                    border-color: black;
+                    border-color: #7253ed;
                 }
             }
             .timeline-item:hover .timeline-marker:before {
-                background: black;
+                background: #7253ed;
             }
         }

@@ -106,9 +106,7 @@ What's Augustine going to do with that? Well, look, what's less real what's down
 
 I'm losing truth. I am losing goodness. I'm losing beauty. I'm losing what makes things to be and what makes them to be sensible and intelligible. This is evil. Down here that's the whole, that's the tear in being towards which things can fall, but I can also move up to what's more true. More good, more real.
 
-And of course, what Plotinus knows is that this is driven by a love, a love of knowing what is real and simultaneously becoming what is more real. And so for Augustine,  nd Plato even called it, if you remember, the good, this is the normative order. 
-
-
+And of course, what Plotinus knows is that this is driven by a love, a love of knowing what is real and simultaneously becoming what is more real. And so for Augustine, and Plato even called it, if you remember, the good, this is the normative order. 
 
 The nomological order tells you how things are structured. The normative order tells you how you can become better, how you can deal with evil and how you can increase realness, meaning in your life.
 

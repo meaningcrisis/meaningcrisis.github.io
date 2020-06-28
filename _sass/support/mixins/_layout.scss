@@ -25,7 +25,7 @@
 
 @mixin container {
   padding-right: $gutter-spacing-sm;
-  padding-left: 80px;
+  padding-left: $gutter-spacing-sm;
 
   @include mq(md) {
     padding-right: $gutter-spacing;

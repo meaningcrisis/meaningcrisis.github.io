@@ -72,6 +72,7 @@
   @include container;
   padding-top: $gutter-spacing-sm;
   padding-bottom: $gutter-spacing-sm;
+  margin-bottom: 40px;
 
   @include mq(md) {
     padding-top: $gutter-spacing;

@@ -15,7 +15,7 @@ nav_order: 96
                     </div>
                     <div class="timeline-marker"></div>
                     <div class="timeline-content">
-                        <h3 class="timeline-title">Beginning of the Axial Revolution</h3>
+                        <p class="timeline-title">Beginning of the Axial Revolution</p>
                         <p>Nullam vel sem. Nullam vel sem. Integer ante arcu, accumsan a, consectetuer eget, posuere ut, mauris. Donec orci lectus, aliquam ut, faucibus non, euismod id, nulla. Donec vitae sapien ut libero venenatis faucibus. ullam dictum felis
                             eu pede mollis pretium. Pellentesque ut neque.</p>
                     </div>
@@ -26,7 +26,7 @@ nav_order: 96
                     </div>
                     <div class="timeline-marker"></div>
                     <div class="timeline-content">
-                        <h3 class="timeline-title">Siddhārtha Gautama (Buddha)</h3>
+                        <p class="timeline-title">Siddhārtha Gautama (Buddha)</p>
                         <p>Nullam vel sem. Nullam vel sem. Integer ante arcu, accumsan a, consectetuer eget, posuere ut, mauris. Donec orci lectus, aliquam ut, faucibus non, euismod id, nulla. Donec vitae sapien ut libero venenatis faucibus. ullam dictum felis
                             eu pede mollis pretium. Pellentesque ut neque. </p>
                     </div>
@@ -37,7 +37,7 @@ nav_order: 96
                     </div>
                     <div class="timeline-marker"></div>
                     <div class="timeline-content">
-                        <h3 class="timeline-title">Socrates</h3>
+                        <p class="timeline-title">Socrates</p>
                         <p>Nullam vel sem. Nullam vel sem. Integer ante arcu, accumsan a, consectetuer eget, posuere ut, mauris. Donec orci lectus, aliquam ut, faucibus non, euismod id, nulla. Donec vitae sapien ut libero venenatis faucibus. ullam dictum felis
                             eu pede mollis pretium. Pellentesque ut neque. </p>
                     </div>
@@ -48,7 +48,7 @@ nav_order: 96
                     </div>
                     <div class="timeline-marker"></div>
                     <div class="timeline-content">
-                        <h3 class="timeline-title">Plato</h3>
+                        <p class="timeline-title">Plato</p>
                         <p>Nullam vel sem. Nullam vel sem. Integer ante arcu, accumsan a, consectetuer eget, posuere ut, mauris. Donec orci lectus, aliquam ut, faucibus non, euismod id, nulla. Donec vitae sapien ut libero venenatis faucibus. ullam dictum felis
                             eu pede mollis pretium. Pellentesque ut neque. </p>
                     </div>
@@ -59,7 +59,7 @@ nav_order: 96
                     </div>
                     <div class="timeline-marker"></div>
                     <div class="timeline-content">
-                        <h3 class="timeline-title">Aristotle</h3>
+                        <p class="timeline-title">Aristotle</p>
                         <p>Nullam vel sem. Nullam vel sem. Integer ante arcu, accumsan a, consectetuer eget, posuere ut, mauris. Donec orci lectus, aliquam ut, faucibus non, euismod id, nulla. Donec vitae sapien ut libero venenatis faucibus. ullam dictum felis
                             eu pede mollis pretium. Pellentesque ut neque. </p>
                     </div>
@@ -70,7 +70,7 @@ nav_order: 96
                     </div>
                     <div class="timeline-marker"></div>
                     <div class="timeline-content">
-                        <h3 class="timeline-title">Alexander the Great</h3>
+                        <p class="timeline-title">Alexander the Great</p>
                         <p>Nullam vel sem. Nullam vel sem. Integer ante arcu, accumsan a, consectetuer eget, posuere ut, mauris. Donec orci lectus, aliquam ut, faucibus non, euismod id, nulla. Donec vitae sapien ut libero venenatis faucibus. ullam dictum felis
                             eu pede mollis pretium. Pellentesque ut neque. </p>
                     </div>
@@ -81,7 +81,7 @@ nav_order: 96
                     </div>
                     <div class="timeline-marker"></div>
                     <div class="timeline-content">
-                        <h3 class="timeline-title">Hellenistic Period</h3>
+                        <p class="timeline-title">Hellenistic Period</p>
                         <p>Cynicism (Diogenes), Stoicism (Zeno), Epicureanism (Epicurus)</p>
                     </div>
                 </li>
@@ -91,7 +91,7 @@ nav_order: 96
                     </div>
                     <div class="timeline-marker"></div>
                     <div class="timeline-content">
-                        <h3 class="timeline-title">Jesus</h3>
+                        <p class="timeline-title">Jesus</p>
                         <p>Agape</p>
                     </div>
                 </li>
@@ -101,7 +101,7 @@ nav_order: 96
                     </div>
                     <div class="timeline-marker"></div>
                     <div class="timeline-content">
-                        <h3 class="timeline-title">Gnostics</h3>
+                        <p class="timeline-title">Gnostics</p>
                         <p>Gnosis. Transcending the gods.</p>
                     </div>
                 </li>
@@ -111,7 +111,7 @@ nav_order: 96
                     </div>
                     <div class="timeline-marker"></div>
                     <div class="timeline-content">
-                        <h3 class="timeline-title">Plotinus</h3>
+                        <p class="timeline-title">Plotinus</p>
                         <p>Grand unified theory of ancient spirituality. Neoplatonism</p>
                     </div>
                 </li>
@@ -121,7 +121,7 @@ nav_order: 96
                     </div>
                     <div class="timeline-marker"></div>
                     <div class="timeline-content">
-                        <h3 class="timeline-title">Augustine of Hippo</h3>
+                        <p class="timeline-title">Augustine of Hippo</p>
                         <p>TODO</p>
                     </div>
                 </li>
@@ -131,7 +131,7 @@ nav_order: 96
                     </div>
                     <div class="timeline-marker"></div>
                     <div class="timeline-content">
-                        <h3 class="timeline-title">Thomas Aquinas</h3>
+                        <p class="timeline-title">Thomas Aquinas</p>
                         <p>TODO</p>
                     </div>
                 </li>

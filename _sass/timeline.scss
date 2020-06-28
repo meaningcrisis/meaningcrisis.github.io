@@ -21,8 +21,19 @@
 
     /*----- TIMELINE INFO -----*/
 
+    .timeline-title {
+        font-size: 22px;
+        font-weight: 700;
+        letter-spacing: 3px;
+        margin: 0 0 .5em 0;
+        text-transform: uppercase;
+        white-space: nowrap;
+
+    }
+
     .timeline-info {
-        font-size: 12px;
+        font-size: 22px;
+        color: #7253ed;
         font-weight: 700;
         letter-spacing: 3px;
         margin: 0 0 .5em 0;

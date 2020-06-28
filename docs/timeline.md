@@ -126,7 +126,7 @@ nav_order: 96
                     <div class="timeline-marker"></div>
                     <div class="timeline-content">
                         <p class="timeline-title">Thomas Aquinas</p>
-                        <p>TODO</p>
+                        <p>As a result of inventions like spaces between words, reading becomes more and more a silent activity. This leads to a different model of thought that gives priority to is coherence within a language rather than participatory transformation. This leads to a rediscovery of Aristotle’s ideas and to the emergence of what we now call science. To assimilate the Christian worldview with this new way of thinking, Thomas Aquinas proposes a clear distinction between the real world, which is accessible by reason, and the supernatural world which is only accessible by faith. </p>
                     </div>
                 </li>
             </ul>

@@ -37,7 +37,7 @@ The table below shows the current status for all lectures and thus gives an over
 | 17 |  ✓|  |  |  |
 | 18 |  ✓|  |  |  |
 | 19 |  ✓ | ✓  |  |  |
-| 20 | |  |  |  |
+| 20 | ✓|  ✓|  |  |
 | 21 | |  |  |  |
 | 22 | |  |  |  |
 | 23 | |  |  |  |

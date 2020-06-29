@@ -21,6 +21,12 @@ permalink: /episodes/20
 
 - Mark Taylor - After God
 
+## Key Ideas
+
+- The scientific revolution happens as a response to the introduction of new psychotechnologies like Arabic numbers, the number zero, negative numbers, abstract algebra, in the west.
+- As a result of the beginning scientific revolution, the axes of [meaning](/meaning) (nomological order, normative order, narrative order) start to collapse.
+  - From the scientific perspective, the universe is an indifferent, inert machine and this traumatizes people.
+  - "The world is not meaningful. The world is not purposeful. The world is not filled with beauty. The world is not filled with truth. The world is not filled with goodness. The world is not even filled with chairs, cops tables, because those are not mathematical entities. Those are all illusions, created by your meaning-making mind in its willful self-deception, the way it asserts itself on the world."
 
 ## Transcript
 

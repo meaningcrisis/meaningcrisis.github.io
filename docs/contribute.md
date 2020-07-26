@@ -12,7 +12,7 @@ The most important puzzle piece is arguably the production of high quality trans
 
 Another important component is to add glossary entries that are currently missing. This helps to avoid that people get lost in their journey through the 50 lectures.
 
-*Everyone can contribute to improve this site. If you're interested, send a short email to [jakobberg90@gmail.com](mailto:jakobberg90@gmail.com).*
+*Everyone can contribute to improve this site. If you're interested, send a short email to [jakobgreenfeld@gmail.com](mailto:jakobgreenfeld@gmail.com).*
 
 The table below shows the current status for all lectures and thus gives an overview of what still needs to be done.
 
